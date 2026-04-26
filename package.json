@@ -1,0 +1,25 @@
+{
+  "name": "daily-pulse",
+  "version": "0.1.0",
+  "description": "Personalized morning intelligence agent — Haiku triage, Sonnet synthesis",
+  "license": "MIT",
+  "author": "PavoWillow",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.91.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "pnpm@9.0.0"
+}

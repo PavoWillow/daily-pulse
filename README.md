@@ -13,10 +13,11 @@
 ## Roadmap
 
 - [x] v0.1 — Project scaffold (TypeScript, pnpm, Anthropic SDK)
-- [ ] v0.2 — RSS feed fetcher + Haiku triage pass
+- [x] v0.2a — Feed config schema + AI Pulse sources verified
+- [ ] v0.2b — RSS feed fetcher + Haiku triage pass
 - [ ] v0.3 — Sonnet synthesis pass → markdown brief
-- [ ] v0.4 — GitHub Actions cron + auto-commit to `briefs/`
-- [ ] v0.5 — First production feed (AI news)
+- [ ] v0.4 — GitHub Actions cron + auto-commit to briefs/
+- [ ] v0.5 — First production feed (AI Pulse) running daily
 
 ## Local development
 

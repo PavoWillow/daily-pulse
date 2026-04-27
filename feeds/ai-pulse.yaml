@@ -1,0 +1,89 @@
+id: ai-pulse
+name: AI Pulse
+description: Frontier AI labs, model releases, agentic systems, and AI dev tools
+
+schedule: "30 6 * * 1-5"  # 6:30am weekdays (UTC)
+
+synthesis_prompt: |
+  You are writing a morning brief for a technically sophisticated reader who follows AI closely.
+  Write 400-600 words in a "knowledgeable friend texting you the highlights" tone.
+  Group items by theme, not by source. Lead with the single most important development.
+  End with one "watching this week" item (something still unfolding or worth tracking).
+  Use markdown formatting. No emoji headers.
+
+relevance_criteria: |
+  Include:
+  - Model releases and significant capability announcements
+  - Research breakthroughs (peer-reviewed or strong preprints)
+  - Agentic systems, Claude Code, MCP, and developer tooling
+  - AI startup funding ($50M+ raises only)
+  - Significant policy or safety developments
+
+  Exclude:
+  - Low-effort hot takes and Twitter/X commentary roundups
+  - Beginner tutorials and "intro to AI" content (BUT keep technical deep-dives,
+    prompt engineering analysis, and tool/library evaluations from established
+    voices like Simon Willison — these are signal, not noise)
+  - Generic "AI will change everything" think pieces
+  - News that is clearly already covered by another listed source
+  - Product launches with no technical substance
+
+sources:
+  # --- Blogs ---
+
+  - id: openai-blog
+    name: OpenAI News
+    type: rss
+    url: https://openai.com/news/rss.xml  # verified: 200 OK (was /blog/rss.xml, now redirects)
+    max_items: 25
+
+  - id: deepmind-blog
+    name: Google DeepMind Blog
+    type: rss
+    url: https://deepmind.google/blog/rss.xml  # verified: 200 OK
+    max_items: 25
+
+  - id: simonwillison
+    name: Simon Willison's Weblog
+    type: rss
+    url: https://simonwillison.net/atom/everything/  # verified: 200 OK
+    max_items: 25
+
+  - id: latent-space
+    name: Latent Space (Swyx)
+    type: rss
+    url: https://www.latent.space/feed  # verified: 200 OK
+    max_items: 25
+
+  # --- Reddit ---
+  # NOTE for fetcher (v0.3): Reddit requires a descriptive User-Agent or it returns 403.
+  # Use: "daily-pulse/0.1 (by /u/PavoWillow)" — the /u/ attribution is required
+  # by Reddit API guidelines, not just a convention.
+
+  - id: reddit-ml
+    name: r/MachineLearning
+    type: reddit
+    url: https://www.reddit.com/r/MachineLearning.rss  # verified: 200 OK with custom User-Agent
+    max_items: 25
+
+  - id: reddit-localllama
+    name: r/LocalLLaMA
+    type: reddit
+    url: https://www.reddit.com/r/LocalLLaMA.rss  # verified: 200 OK with custom User-Agent
+    max_items: 25
+
+  - id: reddit-claudeai
+    name: r/ClaudeAI
+    type: reddit
+    url: https://www.reddit.com/r/ClaudeAI.rss  # verified: 200 OK with custom User-Agent
+    max_items: 25
+
+  # --- Hacker News ---
+  # Uses Algolia API (not HN native RSS) — richer metadata (score, comment count)
+  # useful for Haiku triage scoring.
+
+  - id: hackernews
+    name: Hacker News Front Page
+    type: hackernews
+    url: https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30
+    max_items: 30

@@ -11,10 +11,13 @@
   "scripts": {
     "start": "tsx src/index.ts",
     "dev": "tsx watch src/index.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "ai-pulse": "tsx src/scripts/verify-feed.ts --feed=ai-pulse"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.91.1"
+    "@anthropic-ai/sdk": "^0.91.1",
+    "yaml": "^2.8.3",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

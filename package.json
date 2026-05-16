@@ -12,10 +12,13 @@
     "start": "tsx src/index.ts",
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
-    "ai-pulse": "tsx src/scripts/verify-feed.ts --feed=ai-pulse"
+    "ai-pulse": "tsx src/scripts/run-feed.ts --feed=ai-pulse",
+    "ai-pulse:verify": "tsx src/scripts/verify-feed.ts --feed=ai-pulse"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.91.1",
+    "dotenv": "^17.4.2",
+    "rss-parser": "^3.13.0",
     "yaml": "^2.8.3",
     "zod": "^4.3.6"
   },

@@ -153,3 +153,4 @@ briefs-private/
 # Generated briefs (keep private; commit only curated examples)
 briefs/ai-pulse/*
 !briefs/ai-pulse/triage-2026-05-16.json
+!briefs/ai-pulse/brief-2026-05-16.md

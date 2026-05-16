@@ -4,8 +4,10 @@ import { join } from "node:path";
 import { loadFeedConfig } from "../config.js";
 import { fetchAllSources } from "../fetch/index.js";
 import { triageArticles } from "../triage/index.js";
+import { synthesizeBrief } from "../synthesize/index.js";
 import type { Article } from "../fetch/types.js";
 import type { TriageResult } from "../triage/types.js";
+import type { ArticleForSynthesis } from "../synthesize/types.js";
 
 const feedArg = process.argv.find((a) => a.startsWith("--feed="));
 if (!feedArg) {
@@ -66,13 +68,39 @@ async function main() {
     ].join(" | "));
   }
 
-  // Write JSON brief
+  // Write triage JSON
   const date = new Date().toISOString().slice(0, 10);
   const outDir = join("briefs", feedId);
   mkdirSync(outDir, { recursive: true });
-  const outPath = join(outDir, `triage-${date}.json`);
-  writeFileSync(outPath, JSON.stringify(enriched, null, 2));
-  console.log(`\nWrote ${enriched.length} results → ${outPath}`);
+  const triagePath = join(outDir, `triage-${date}.json`);
+  writeFileSync(triagePath, JSON.stringify(enriched, null, 2));
+  console.log(`\nWrote ${enriched.length} triage results → ${triagePath}`);
+
+  // Synthesis pass
+  console.log("\nRunning Sonnet synthesis...");
+  const articlesForSynthesis: ArticleForSynthesis[] = enriched.map((r) => ({
+    title: r.article.title,
+    source_name: r.article.source_name,
+    summary: r.article.summary,
+    url: r.article.url,
+    score: r.score,
+  }));
+
+  let brief: string;
+  try {
+    brief = await synthesizeBrief(articlesForSynthesis, feed);
+  } catch (err) {
+    console.warn(err instanceof Error ? err.message : String(err));
+    process.exit(0);
+  }
+
+  const briefPath = join(outDir, `brief-${date}.md`);
+  writeFileSync(briefPath, brief);
+  console.log(`Wrote brief → ${briefPath}\n`);
+
+  console.log("=".repeat(80));
+  console.log(brief);
+  console.log("=".repeat(80));
 }
 
 main().catch((err) => {

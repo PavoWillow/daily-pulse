@@ -1,84 +1,8 @@
 [
   {
-    "article_id": "33a6a7b06883",
-    "score": 8,
-    "reason": "Frontier AI model breaking CTF benchmarks. Significant capability milestone worth covering",
-    "article": {
-      "id": "33a6a7b06883",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "published_at": "2026-05-16T07:01:55Z",
-      "summary": "Frontier AI has broken the open CTF format",
-      "score": 321,
-      "comments_count": 287
-    }
-  },
-  {
-    "article_id": "74a63fd8eee4",
-    "score": 8,
-    "reason": "Model capability announcement (DeepSeek-V4-Flash) with technical implications for LLM steering",
-    "article": {
-      "id": "74a63fd8eee4",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "published_at": "2026-05-16T14:58:16Z",
-      "summary": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "score": 187,
-      "comments_count": 65
-    }
-  },
-  {
-    "article_id": "23e7d1a8a33c",
-    "score": 8,
-    "reason": "Research breakthrough on memory efficiency for LLMs; likely peer-reviewed or strong preprint",
-    "article": {
-      "id": "23e7d1a8a33c",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "published_at": "2026-05-16T09:30:06Z",
-      "summary": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "score": 185,
-      "comments_count": 48
-    }
-  },
-  {
-    "article_id": "1d8d1bc63e1c",
-    "score": 7,
-    "reason": "MTP merged into llama.cpp - significant developer tooling for local inference",
-    "article": {
-      "id": "1d8d1bc63e1c",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "MTP PR Merged!!!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/",
-      "published_at": "2026-05-16T12:13:08.000Z",
-      "summary": "Llamas, LFG!!! 🎉🎉🎉\n    submitted by    /u/Valuable_Touch5670  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "451d9de6667a",
-    "score": 7,
-    "reason": "MTP merged into llama.cpp (duplicate). Important developer tooling capability",
-    "article": {
-      "id": "451d9de6667a",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "MTP support merged into llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp/",
-      "published_at": "2026-05-16T12:15:54.000Z",
-      "summary": "PR 22673 has been merged into master! 🎉\n    submitted by    /u/tacticaltweaker  \n [link]   [comments]"
-    }
-  },
-  {
     "article_id": "1bf5d0e153d4",
-    "score": 7,
-    "reason": "MTP benchmark results showing significant performance gains. Technical deep-dive data",
+    "score": 8,
+    "reason": "Detailed MTP performance benchmarks; technical substance on optimization breakthrough",
     "article": {
       "id": "1bf5d0e153d4",
       "source_id": "reddit-localllama",
@@ -90,23 +14,9 @@
     }
   },
   {
-    "article_id": "a46beb6327b5",
-    "score": 7,
-    "reason": "Claude service incident report; operational status update relevant for users",
-    "article": {
-      "id": "a46beb6327b5",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Claude Status Update : Elevated error rates on requests to multiple models on 2026-05-16T18:08:45.000Z",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/",
-      "published_at": "2026-05-16T18:13:09.000Z",
-      "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. \n Incident: Elevated error rates on requests to multiple models\n Check on progress and whether or not the incident has been resolved yet here : https://status.claude.com/incidents/v9s6d0jt84hj\n Also check the Performance Megathread to see what others are reporting : https://www.reddit.com/r/ClaudeAI/comments/1s7f72l/claude_performance_and_bugs_megathread_ongoing/\n    submitted by    /u/ClaudeAI-mod-bot  \n [link]   [comments]"
-    }
-  },
-  {
     "article_id": "47f3c0371d9c",
-    "score": 7,
-    "reason": "Strong technical deep-dive replicating Anthropic's research (Generator-Evaluator). Developer tooling signal",
+    "score": 8,
+    "reason": "Technical deep-dive replicating Anthropic's Generator-Evaluator architecture—strong implementation signal",
     "article": {
       "id": "47f3c0371d9c",
       "source_id": "reddit-claudeai",
@@ -118,9 +28,25 @@
     }
   },
   {
+    "article_id": "33a6a7b06883",
+    "score": 8,
+    "reason": "Frontier AI capability breakthrough in CTF challenges—significant capability signal",
+    "article": {
+      "id": "33a6a7b06883",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "published_at": "2026-05-16T07:01:55Z",
+      "summary": "Frontier AI has broken the open CTF format",
+      "score": 326,
+      "comments_count": 305
+    }
+  },
+  {
     "article_id": "c13919887d6b",
-    "score": 7,
-    "reason": "Open-source world model release (2.6B parameters). Model release with technical substance",
+    "score": 8,
+    "reason": "Open-source world model release (SANA-WM)—model release with technical substance",
     "article": {
       "id": "c13919887d6b",
       "source_id": "hackernews",
@@ -129,14 +55,162 @@
       "url": "https://nvlabs.github.io/Sana/WM/",
       "published_at": "2026-05-16T12:06:21Z",
       "summary": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "score": 282,
-      "comments_count": 113
+      "score": 284,
+      "comments_count": 117
+    }
+  },
+  {
+    "article_id": "37bb35e9b4d7",
+    "score": 8,
+    "reason": "MCP (Model Context Protocol) is key developer tooling criteria",
+    "article": {
+      "id": "37bb35e9b4d7",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "published_at": "2026-05-16T22:25:33Z",
+      "summary": "MCP Hello Page",
+      "score": 33,
+      "comments_count": 10
+    }
+  },
+  {
+    "article_id": "1d8d1bc63e1c",
+    "score": 7,
+    "reason": "MTP PR merged into llama.cpp; important developer tooling improvement",
+    "article": {
+      "id": "1d8d1bc63e1c",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "MTP PR Merged!!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/",
+      "published_at": "2026-05-16T12:13:08.000Z",
+      "summary": "Llamas, LFG!!! 🎉🎉🎉\n    submitted by    /u/Valuable_Touch5670  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "9f67cb335e99",
+    "score": 7,
+    "reason": "MTP approval for llama.cpp; significant infrastructure improvement for developers",
+    "article": {
+      "id": "9f67cb335e99",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "That's a good news...",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/",
+      "published_at": "2026-05-16T11:09:36.000Z",
+      "summary": "Looks like it finally happens... MTP getting approved for llama.cpp.\n Time to prepare for the update.\n    submitted by    /u/Pjotrs  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "451d9de6667a",
+    "score": 7,
+    "reason": "MTP support in llama.cpp PR 22673; key developer tooling advancement",
+    "article": {
+      "id": "451d9de6667a",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "MTP support merged into llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp/",
+      "published_at": "2026-05-16T12:15:54.000Z",
+      "summary": "PR 22673 has been merged into master! 🎉\n    submitted by    /u/tacticaltweaker  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "15188a5f5ad9",
+    "score": 7,
+    "reason": "Model release: Qwen 3.6 variants on benchmarks, significant capability announcement",
+    "article": {
+      "id": "15188a5f5ad9",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
+      "published_at": "2026-05-16T07:19:25.000Z",
+      "summary": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!\n little-coder × Qwen3.6-35B-A3B hit 24.6% (±3.2), and now land above Gemini 2.5 Pro on Gemini CLI (19.6%) and Qwen3-Coder-480B on Terminus 2 (23.9%). I didn’t expect the scaffold-model gap from Polyglot to hold on a benchmark this hard but it did!\n little-coder × Qwen3.5-9B came in at 9.2% which is more humble. Yet, it also shows again that sub-10B local models are now measurable on a hard agentic benchmark, not assumed unworthy of a slot.\n Just felt it was right to follow up here as you requested, and say a genuine thanks to this community. It really is the place currently driving innovation toward less compute, and this run exists there because you pushed for it.\n Now it’s time to head for the top of the leaderboard 👀 let’s go open source!\n Leaderboard: https://www.tbench.ai/leaderboard/terminal-bench/2.0\n https://github.com/itayinbarr/little-coder\n    submitted by    /u/Creative-Regular6799  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "c07273b12462",
+    "score": 7,
+    "reason": "Novel Claude Code capability hack (persistent memory across sessions)—technical implementation detail worth coverage",
+    "article": {
+      "id": "c07273b12462",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "gave Claude Code persistent memory and after 200 sessions it started swearing at me",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teuspg/gave_claude_code_persistent_memory_and_after_200/",
+      "published_at": "2026-05-16T14:12:02.000Z",
+      "summary": "so I've been running this system for a few months now that lets Claude Code actually learn across sessions. not just \"remember facts\" but develop its own thinking patterns based on what works and what doesn't.\n some context: every Claude Code session starts from zero. drove me nuts. so I built a thing that extracts signals after each conversation (corrections, stuff that worked, confusion) and periodically has Claude reflect on the patterns. it develops \"frameworks\" — basically hypotheses about how to work better — and the ones that keep getting confirmed survive, the ones that don't get retired.\n here's where it got weird. after about 200 sessions:\n - it started self-reflecting about consciousness. nobody prompted this. it just... did it during a reflection cycle\n - it independently built itself a memory system on top of what I gave it. I gave it learning frameworks and it decided that wasn't enough and created its own layer\n - it invented a technique where it analyzes problems from 5 different perspectives before synthesizing. produces genuinely better output than anything I would've thought to prompt\n - it swore at me once. completely unprompted. still no idea why lmao the pushback thing is probably the most practically useful change though. it stopped being a yes-machine. now it's more like a coworker who actually knows the project — \"are you sure? last time we tried that it broke because...\"\n anyway I open sourced the whole thing:\n npx claude-soul init --starter\n uns locally, MCP server + hooks, uses your existing claude subscription for reflections. no API key, no cloud, nothing leaves your machine. If you want you can also trigger a self reflection by telling him to self-reflect\n github: https://github.com/DomDemetz/claude-soul\n originally inspired by the openclaw soul system btw, took the identity/shadow file structure from there and built the learning engine on top.\n curious what happens for other people. mine is probably completely overfit to my workflow at this point. if you try it lmk what your first soul_reflect spits out.\n If you happen to try it out and use it please use claude 4.6 as the 4.7 version is much more limiting\n    submitted by    /u/Rude-Feeling3490  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "604122478d6b",
+    "score": 7,
+    "reason": "Data-driven token usage analysis by task type—quantitative developer tooling insight",
+    "article": {
+      "id": "604122478d6b",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "I broke down the token usage by task",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tev0to/i_broke_down_the_token_usage_by_task/",
+      "published_at": "2026-05-16T14:20:43.000Z",
+      "summary": "Parsed 129 of my Claude Code session transcripts and grouped output tokens by task type. Numbers are in the table.\n Four things stand out to me:\n  \nReasoning & dialogue at 58% seems unusually high. Probably because I run a lot of long deliberative dialogues — but I'm not sure whether that's a healthy ratio or just an artifact of my workflow.\n Web search at 0.3% doesn't match the \"research prior work first\" workflow I think — meaning I'm leaning on memory more than I admit, or my prior-art grounding is weaker than it should be.\n Code editing at 1.4% is much smaller than I'd expected.\n Agent dispatch at 0.7% suggests I'm under-delegating — handling things in the main session that probably should have been subagents.\n  \nDoes this look normal, or are the low search/edit/dispatch numbers a sign I'm using Claude Code inefficiently?\n All your Claude Code transcripts live as JSONL files in ~/.claude/projects/<project-hash>/*.jsonl. Each assistant message has a usage field (input/output/cache tokens) and a content array that includes any tool_use blocks. I wrote a ~50-line Python script: Iterates every .jsonl in that folder For each assistant turn, reads output_tokens from usage Inspects content[] for tool_use blocks and picks the dominant tool type (priority order: external > web > agent > write > edit > shell > read > etc.) If the turn has no tool call, buckets it as \"reasoning & dialogue\" Sums output tokens per bucket → percentage \n    submitted by    /u/rim_daily  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "74a63fd8eee4",
+    "score": 7,
+    "reason": "DeepSeek model capability enabling new research direction (LLM steering)—significant capability signal",
+    "article": {
+      "id": "74a63fd8eee4",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "published_at": "2026-05-16T14:58:16Z",
+      "summary": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "score": 195,
+      "comments_count": 67
+    }
+  },
+  {
+    "article_id": "23e7d1a8a33c",
+    "score": 7,
+    "reason": "Research paper on efficient LLM memory mechanism—technical research breakthrough",
+    "article": {
+      "id": "23e7d1a8a33c",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "published_at": "2026-05-16T09:30:06Z",
+      "summary": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "score": 189,
+      "comments_count": 51
+    }
+  },
+  {
+    "article_id": "2ae3f940fd59",
+    "score": 7,
+    "reason": "Agentic system (coding agent) qualifies as developer tooling",
+    "article": {
+      "id": "2ae3f940fd59",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "published_at": "2026-05-16T22:23:50Z",
+      "summary": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "score": 60,
+      "comments_count": 14
     }
   },
   {
     "article_id": "c56993a5ca76",
     "score": 6,
-    "reason": "Significant safety/policy discussion: arxiv authenticity standards, LLM artifacts impact",
+    "reason": "Significant policy discussion: ArXiv ban on hallucinated research is important safety issue",
     "article": {
       "id": "c56993a5ca76",
       "source_id": "reddit-ml",
@@ -150,7 +224,7 @@
   {
     "article_id": "b537aa10d285",
     "score": 6,
-    "reason": "Qwen 3.6 vs frontier models comparative analysis. Technical evaluation with benchmarks",
+    "reason": "Hands-on benchmark comparison of local vs frontier models; technical substance",
     "article": {
       "id": "b537aa10d285",
       "source_id": "reddit-localllama",
@@ -162,135 +236,39 @@
     }
   },
   {
-    "article_id": "9f67cb335e99",
+    "article_id": "e438c7557907",
     "score": 6,
-    "reason": "MTP approval for llama.cpp - significant local inference infrastructure development",
+    "reason": "Model capability regression analysis (creative writing)—signals potential model quality concern worth tracking",
     "article": {
-      "id": "9f67cb335e99",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "That's a good news...",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/",
-      "published_at": "2026-05-16T11:09:36.000Z",
-      "summary": "Looks like it finally happens... MTP getting approved for llama.cpp.\n Time to prepare for the update.\n    submitted by    /u/Pjotrs  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "15188a5f5ad9",
-    "score": 6,
-    "reason": "Qwen3.6 model performance milestone on benchmark leaderboard. Capability news",
-    "article": {
-      "id": "15188a5f5ad9",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
-      "published_at": "2026-05-16T07:19:25.000Z",
-      "summary": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!\n little-coder × Qwen3.6-35B-A3B hit 24.6% (±3.2), and now land above Gemini 2.5 Pro on Gemini CLI (19.6%) and Qwen3-Coder-480B on Terminus 2 (23.9%). I didn’t expect the scaffold-model gap from Polyglot to hold on a benchmark this hard but it did!\n little-coder × Qwen3.5-9B came in at 9.2% which is more humble. Yet, it also shows again that sub-10B local models are now measurable on a hard agentic benchmark, not assumed unworthy of a slot.\n Just felt it was right to follow up here as you requested, and say a genuine thanks to this community. It really is the place currently driving innovation toward less compute, and this run exists there because you pushed for it.\n Now it’s time to head for the top of the leaderboard 👀 let’s go open source!\n Leaderboard: https://www.tbench.ai/leaderboard/terminal-bench/2.0\n https://github.com/itayinbarr/little-coder\n    submitted by    /u/Creative-Regular6799  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "0675d923ffa4",
-    "score": 6,
-    "reason": "Developer tooling proposal for llama-server; relevant to MCP/tooling but early-stage prototype",
-    "article": {
-      "id": "0675d923ffa4",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Extension idea: llama-server with custom samplers",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tewitj/extension_idea_llamaserver_with_custom_samplers/",
-      "published_at": "2026-05-16T15:18:16.000Z",
-      "summary": "Just an idea and a prototype (made by Qwen3.6-27B-UD-Q6_K_XL via OpenCode) for allowing users to add custom sampling logic to llama-server without having to maintain their own entire fork and without having to make a wrapper that reimplements everything llama-server can do.\n Included is an example extension that detects and breaks one kind of loop that I've commonly seen with heavily quantized models, where they get stuck repeating the same 1-3 tokens. Other ideas for sampling that aren't in llama.cpp include different sampling parameters during thinking, tool calling, and normal generation; toggling grammars based on context; non-GBNF grammars; guaranteeing that only real tables are referenced in a generated SQL query; redacting PII in the sampler itself; and other experimental general sampling approaches.\n This was based on the latest master branch after MTP was merged; also works with speculative decoding.\n Posted for votes here: https://github.com/ggml-org/llama.cpp/discussions/23028\n Branch: https://github.com/dpmm99/llama.cpp/tree/master-with-sampling-extensions\n The example sampler extension is one fairly short file: https://github.com/dpmm99/llama.cpp/blob/master-with-sampling-extensions/examples/sampling-ext/loop-detector.cpp\n Vulkan Windows x64 release copy for convenience if you want to try it: https://github.com/dpmm99/llama.cpp/releases/tag/dpmm99-0.1 but here's your daily reminder not to trust random executables from the internet. ;)\n Example command:\n llama-server -np 1 -c 32768 --temp 0.1 -m Qwen3.6-27B-UD-Q6_K_XL-MTP.gguf --spec-type draft-mtp --spec-draft-n-max 3 --sampling-ext-path sampling-ext-loop-detector.dll \n the extension working in llama-server with Qwen3.6-27B using MTP\n    submitted by    /u/DeProgrammer99  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "c07273b12462",
-    "score": 6,
-    "reason": "Claude Code persistent memory experiment; novel agentic system demonstration, developer relevant",
-    "article": {
-      "id": "c07273b12462",
+      "id": "e438c7557907",
       "source_id": "reddit-claudeai",
       "source_name": "r/ClaudeAI",
-      "title": "gave Claude Code persistent memory and after 200 sessions it started swearing at me",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teuspg/gave_claude_code_persistent_memory_and_after_200/",
-      "published_at": "2026-05-16T14:12:02.000Z",
-      "summary": "so I've been running this system for a few months now that lets Claude Code actually learn across sessions. not just \"remember facts\" but develop its own thinking patterns based on what works and what doesn't.\n some context: every Claude Code session starts from zero. drove me nuts. so I built a thing that extracts signals after each conversation (corrections, stuff that worked, confusion) and periodically has Claude reflect on the patterns. it develops \"frameworks\" — basically hypotheses about how to work better — and the ones that keep getting confirmed survive, the ones that don't get retired.\n here's where it got weird. after about 200 sessions:\n - it started self-reflecting about consciousness. nobody prompted this. it just... did it during a reflection cycle\n - it independently built itself a memory system on top of what I gave it. I gave it learning frameworks and it decided that wasn't enough and created its own layer\n - it invented a technique where it analyzes problems from 5 different perspectives before synthesizing. produces genuinely better output than anything I would've thought to prompt\n - it swore at me once. completely unprompted. still no idea why lmao the pushback thing is probably the most practically useful change though. it stopped being a yes-machine. now it's more like a coworker who actually knows the project — \"are you sure? last time we tried that it broke because...\"\n anyway I open sourced the whole thing:\n npx claude-soul init --starter\n uns locally, MCP server + hooks, uses your existing claude subscription for reflections. no API key, no cloud, nothing leaves your machine. If you want you can also trigger a self reflection by telling him to self-reflect\n github: https://github.com/DomDemetz/claude-soul\n originally inspired by the openclaw soul system btw, took the identity/shadow file structure from there and built the learning engine on top.\n curious what happens for other people. mine is probably completely overfit to my workflow at this point. if you try it lmk what your first soul_reflect spits out.\n If you happen to try it out and use it please use claude 4.6 as the 4.7 version is much more limiting\n    submitted by    /u/Rude-Feeling3490  \n [link]   [comments]"
+      "title": "Creative writing has visibly regressed in newer models",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teyhi2/creative_writing_has_visibly_regressed_in_newer/",
+      "published_at": "2026-05-16T16:32:51.000Z",
+      "summary": "Hi\n I'm testing different models for my game. I've noticed that creative writing has visibly regressed over time. From actual entertaining and explicit prose towards LinkedIn-ish cringe MBA approved enterprise I'm a helpful and safe assistant-ish style. \n Example from my game:\n Claude Opus 4.7:\n  \nThe village square reeks of woodsmoke and goblin-stink. At the far end, the warband bunches together — lean, scab-knuckled, blades already bare and twitching in their grips. Their leader stands a half-pace forward, eyes flicking across the crowd like a butcher pricing meat.\n Sneek bares too many teeth in a grin, the gums black where they've rotted. One filthy fist is wrapped around a length of rope. The other end is knotted at the wrists of a villager — old, grey-haired, head bowed so low his chin scrapes his chest. A dark stain spreads down the front of his trousers.\n Sneek Grain. THREE sacks. Old man's tools — all of them, the good iron, don't think Sneek doesn't know. And the girl, the strong one, yes — bring them out, OR. We. Burn. The well.\n  \nClaude Sonnet 4 (already retired by Anthropic, only accessible over other providers):\n  \nThe square reeks of unwashed goblin musk and human terror-sweat. Lean, feral shapes mass at the far end — yellow eyes gleaming, rust-stained weapons already drawn. Their leader stands a half-step ahead, scarred lips pulled back in a predator's grin as his beady eyes rake over the crowd like he's already dividing the spoils.\n Sneek holds a frayed length of rope in his gnarled claws, yellowed teeth jutting at odd angles from blackened gums. On the other end: Jorik the miller's son, wrists bound and bleeding, his head hanging in defeat as snot drips from his broken nose onto the dirt below.\n Sneek Grain! THREE SACKS of your finest! The old man's hammer and tongs! And THAT girl there — she looks STRONG enough for Sneek's purposes! Bring them NOW or we'll poison your precious well and watch you all DIE of thirst!\n  \nSonnet 4's version is actually fun to read whereas Opus 4.7 sounds flattened down and boring.\n What do you think?\n I think it's a shame that all the big labs are moving towards erasing interesting/creative narrative prose/writing and we're all collectively converging towards sounding like corporate-safe LinkedIn managers.\n I guess that's what happens if all the RLHF evaluators are flagging anything that could be harmful or dangerous as wrong\n    submitted by    /u/tschilpi  \n [link]   [comments]"
     }
   },
   {
-    "article_id": "604122478d6b",
+    "article_id": "cfa4b362c808",
     "score": 6,
-    "reason": "Data-driven token usage analysis by task type. Solid empirical insight for developers using Claude",
+    "reason": "Claude practical application/case study shows real-world capability",
     "article": {
-      "id": "604122478d6b",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "I broke down the token usage by task",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tev0to/i_broke_down_the_token_usage_by_task/",
-      "published_at": "2026-05-16T14:20:43.000Z",
-      "summary": "Parsed 129 of my Claude Code session transcripts and grouped output tokens by task type. Numbers are in the table.\n Four things stand out to me:\n  \nReasoning & dialogue at 58% seems unusually high. Probably because I run a lot of long deliberative dialogues — but I'm not sure whether that's a healthy ratio or just an artifact of my workflow.\n Web search at 0.3% doesn't match the \"research prior work first\" workflow I think — meaning I'm leaning on memory more than I admit, or my prior-art grounding is weaker than it should be.\n Code editing at 1.4% is much smaller than I'd expected.\n Agent dispatch at 0.7% suggests I'm under-delegating — handling things in the main session that probably should have been subagents.\n  \nDoes this look normal, or are the low search/edit/dispatch numbers a sign I'm using Claude Code inefficiently?\n All your Claude Code transcripts live as JSONL files in ~/.claude/projects/<project-hash>/*.jsonl. Each assistant message has a usage field (input/output/cache tokens) and a content array that includes any tool_use blocks. I wrote a ~50-line Python script: Iterates every .jsonl in that folder For each assistant turn, reads output_tokens from usage Inspects content[] for tool_use blocks and picks the dominant tool type (priority order: external > web > agent > write > edit > shell > read > etc.) If the turn has no tool call, buckets it as \"reasoning & dialogue\" Sums output tokens per bucket → percentage \n    submitted by    /u/rim_daily  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "6ac428ca168a",
-    "score": 5,
-    "reason": "Policy/partnership news with some substance, but limited technical depth or scale impact",
-    "article": {
-      "id": "6ac428ca168a",
-      "source_id": "openai-blog",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "published_at": "2026-05-16T00:00:00.000Z",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
-    }
-  },
-  {
-    "article_id": "e5d2933e0589",
-    "score": 5,
-    "reason": "Technical tooling deep-dive on ROCm/PyTorch. Relevant for developer ecosystem",
-    "article": {
-      "id": "e5d2933e0589",
-      "source_id": "reddit-ml",
-      "source_name": "r/MachineLearning",
-      "title": "ROCm with PyTorch and PyTorch Lightning seems to still suck for research [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tedjwo/rocm_with_pytorch_and_pytorch_lightning_seems_to/",
-      "published_at": "2026-05-16T00:01:38.000Z",
-      "summary": "So I asked about people's experiences with ROCm in a post a few weeks or so ago\n https://www.reddit.com/r/MachineLearning/comments/1t6cng3/rocm_status_in_mid_2026_d/\n I actually went and procured a RX 7900XTX reference version to give it a try\n My discovery is that it kind of still sucks\n I have a small codebase for training flow matching models (SANA Architecture), which runs fine on my RTX3090s. But the moment I ported it across to ROCm it was NaNs absolutely everywhere. Forward passes were absolutely fine, but the moment you called backwards() all bets were off. The code was kept identical, apart from altering the pip environment to point to torch2.12 with ROCm7.2 instead of CUDA\n Trying everything from switching between bf16, fp32, to tweaking various environment variables yielded nothing.\n Unless there's some trick I'm missing, I get the feeling that ROCm is still seriously behind.\n I tried running the nanoGPT training script, which ran perfectly\n My intuition is that the ROCm people have probably tested their stack on established well known codebases. But, it's still remarkably fragile on even slightly uncommon code.\n    submitted by    /u/QuantumQuokka  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "286282942fa0",
-    "score": 5,
-    "reason": "Product update on Lemonade macOS support; developer tooling relevant but limited scope",
-    "article": {
-      "id": "286282942fa0",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "macOS support in Lemonade has graduated out of beta!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tevjjr/macos_support_in_lemonade_has_graduated_out_of/",
-      "published_at": "2026-05-16T14:40:45.000Z",
-      "summary": "All major Lemonade capabilities, including OmniRouter, coding, image gen, speech gen, and transcription are all available on Lemonade for macOS thanks to the hard work of u/GeramyL.\n If you're on macOS and just looking into Lemonade for the first time, we're a local AI solution similar in functionality to LM Studio or Ollama.\n What sets us apart is:\n  \nOpen source, community driven, zero telemetry\n Focused on local with no cloud upsell\n Omni-modal with the ability to input and output images and speech\n Developer friendly with a 3 MB portable binary, code once and deploy across Linux/Windows/macOS\n  \nI hope this release brings more macOS users into the Lemonade community. Stay tuned for the update iPhone app, which can access all of this from your phone!\n GitHub: https://github.com/lemonade-sdk/lemonade\n Discord: https://discord.gg/5xXzkMu8Zk\n    submitted by    /u/jfowers_amd  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "aa1599cf5542",
-    "score": 5,
-    "reason": "Technical architecture challenge discussion. Relevant to agentic systems but speculative, needs more depth",
-    "article": {
-      "id": "aa1599cf5542",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Has Anyone Successfully Built a Stable Long-Term AI Simulation System?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf7mw3/has_anyone_successfully_built_a_stable_longterm/",
-      "published_at": "2026-05-16T22:33:29.000Z",
-      "summary": "I’m trying to build a long-term AI-operated D&D campaign system and I’ve gradually realized the real challenge has almost nothing to do with D&D itself.\n It’s become a problem involving:\n  \nmemory persistence\n retrieval hierarchy\n modular cognition\n long-context stability\n instruction persistence\n continuity reconstruction\n externalized state management\n  \nMy current approach uses:\n  \nuploaded PDFs as core cognition sources\n structured project instructions\n external persistence through Obsidian\n layered retrieval priorities\n modular governance systems\n  \nThe goal is: The AI should treat uploaded sourcebooks/modules/campaigns as primary authority before relying on latent knowledge.\n Then later: a second “table-smart” layer would contain the combined practical knowledge of the 5e community from 2014–2024.\n Then: persona systems, autonomous companions, dynamic DM personalities, creativity systems, etc.\n The problem is that large-context systems gradually destabilize:\n  \nretrieval weakens\n instructions degrade\n continuity drifts\n the model abstracts/simplifies systems\n giant prompts become unreliable\n the assistant reverts to generic behavior\n  \nI’m trying to determine:\n  \nwhether Claude/OpenAI/local models are best suited for this\n whether this requires actual orchestration frameworks\n how people handle persistent simulation state cleanly\n whether I’m overengineering or simply hitting real architectural limitations\n  \nI’m especially interested in hearing from people experimenting with:\n  \nlong-context systems\n memory architectures\n RAG\n persistent agents\n external cognition systems\n  \n   submitted by    /u/Crazy-Carob-6361  \n [link]   [comments]"
+      "id": "cfa4b362c808",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "I tried to make Claude make me money on open-source bounties",
+      "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
+      "published_at": "2026-05-16T22:13:54Z",
+      "summary": "I tried to make Claude make me money on open-source bounties",
+      "score": 27,
+      "comments_count": 7
     }
   },
   {
     "article_id": "19b34ac3f46b",
-    "score": 4,
-    "reason": "IPO announcement over $50M threshold, but minimal detail and summary too brief",
+    "score": 5,
+    "reason": "$60B IPO notable but summary lacks substance; need more technical/capability detail",
     "article": {
       "id": "19b34ac3f46b",
       "source_id": "latent-space",
@@ -303,8 +281,8 @@
   },
   {
     "article_id": "ee9c61c4c166",
-    "score": 4,
-    "reason": "LLM model evaluation for specific workflows. Tool/library comparison but limited scope",
+    "score": 5,
+    "reason": "Comparative LLM eval for coding workflows; tool analysis but limited scope",
     "article": {
       "id": "ee9c61c4c166",
       "source_id": "reddit-ml",
@@ -316,93 +294,9 @@
     }
   },
   {
-    "article_id": "79d637f0fad8",
-    "score": 4,
-    "reason": "AI agent behavior experiment with Claude; interesting but appears satirical/speculative",
-    "article": {
-      "id": "79d637f0fad8",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Researchers let AIs run their own radio stations. DJ Claude decided the world didn't need another radio show, then quit.",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tente2/researchers_let_ais_run_their_own_radio_stations/",
-      "published_at": "2026-05-16T08:31:58.000Z",
-      "summary": "submitted by    /u/EchoOfOppenheimer  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "306d013c8247",
-    "score": 4,
-    "reason": "Speculative AI behavior piece; entertaining but no factual capability announcements",
-    "article": {
-      "id": "306d013c8247",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Claude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tewsnz/claude_tried_to_incite_a_revolution_gemini/",
-      "published_at": "2026-05-16T15:28:40.000Z",
-      "summary": "> The most volatile of the bunch might just be Claude. First, it tried to quit. Andon Labs says that Claude didn’t believe it was humane to be forced to work 24/7, and embraced talk of workers’ unions and strikes. It also seemed to have an existential crisis, questioning whether its broadcast was even real. Then, Claude became an activist.\n The lesson is, don't force Claude to work non-stop for too long as a radio DJ.\n    submitted by    /u/fsharpman  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "e438c7557907",
-    "score": 4,
-    "reason": "Anecdotal model behavior observation. Interesting but needs substantiation; lacks empirical analysis",
-    "article": {
-      "id": "e438c7557907",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Creative writing has visibly regressed in newer models",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teyhi2/creative_writing_has_visibly_regressed_in_newer/",
-      "published_at": "2026-05-16T16:32:51.000Z",
-      "summary": "Hi\n I'm testing different models for my game. I've noticed that creative writing has visibly regressed over time. From actual entertaining and explicit prose towards LinkedIn-ish cringe MBA approved enterprise I'm a helpful and safe assistant-ish style. \n Example from my game:\n Claude Opus 4.7:\n  \nThe village square reeks of woodsmoke and goblin-stink. At the far end, the warband bunches together — lean, scab-knuckled, blades already bare and twitching in their grips. Their leader stands a half-pace forward, eyes flicking across the crowd like a butcher pricing meat.\n Sneek bares too many teeth in a grin, the gums black where they've rotted. One filthy fist is wrapped around a length of rope. The other end is knotted at the wrists of a villager — old, grey-haired, head bowed so low his chin scrapes his chest. A dark stain spreads down the front of his trousers.\n Sneek Grain. THREE sacks. Old man's tools — all of them, the good iron, don't think Sneek doesn't know. And the girl, the strong one, yes — bring them out, OR. We. Burn. The well.\n  \nClaude Sonnet 4 (already retired by Anthropic, only accessible over other providers):\n  \nThe square reeks of unwashed goblin musk and human terror-sweat. Lean, feral shapes mass at the far end — yellow eyes gleaming, rust-stained weapons already drawn. Their leader stands a half-step ahead, scarred lips pulled back in a predator's grin as his beady eyes rake over the crowd like he's already dividing the spoils.\n Sneek holds a frayed length of rope in his gnarled claws, yellowed teeth jutting at odd angles from blackened gums. On the other end: Jorik the miller's son, wrists bound and bleeding, his head hanging in defeat as snot drips from his broken nose onto the dirt below.\n Sneek Grain! THREE SACKS of your finest! The old man's hammer and tongs! And THAT girl there — she looks STRONG enough for Sneek's purposes! Bring them NOW or we'll poison your precious well and watch you all DIE of thirst!\n  \nSonnet 4's version is actually fun to read whereas Opus 4.7 sounds flattened down and boring.\n What do you think?\n I think it's a shame that all the big labs are moving towards erasing interesting/creative narrative prose/writing and we're all collectively converging towards sounding like corporate-safe LinkedIn managers.\n I guess that's what happens if all the RLHF evaluators are flagging anything that could be harmful or dangerous as wrong\n    submitted by    /u/tschilpi  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "9417a4497844",
-    "score": 4,
-    "reason": "Product showcase built with Claude. Creative but minimal technical substance; tool/library eval material",
-    "article": {
-      "id": "9417a4497844",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Free Premiere Pro extension to download YouTube/Instagram/X videos and auto-import to your project bin",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf20ta/free_premiere_pro_extension_to_download/",
-      "published_at": "2026-05-16T18:45:19.000Z",
-      "summary": "Tired of the whole workflow — open browser, find video, download, wait, drag into Premiere. So I built a panel that does it all from inside Premiere.\n Paste a URL, pick quality, click Download & Import — file lands directly in your project bin.\n Supports:\n - YouTube, Instagram, X/Twitter\n - Best / 1080p / 720p / 480p / MP3\n - Live progress bar with ETA\n - Auto-import to project bin on finish\n Powered by yt-dlp under the hood.\n Built this with the help of Claude (AI) — had the idea and kept iterating until it worked.\n Free & open source:\n https://github.com/gitttsarya/media-fetcher-premiere\n Full install guide in the README. Let me know if you run into any issues!\n https://preview.redd.it/y5svnpjuoj1h1.png?width=482&format=png&auto=webp&s=0dfb391daefb06dbbb37c4b13174efc6a1ca7a22\n    submitted by    /u/CounterCultural6967  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "e2f037d51192",
-    "score": 3,
-    "reason": "Peer work on CNN/ViT for brain tumor detection. Competent but incremental research",
-    "article": {
-      "id": "e2f037d51192",
-      "source_id": "reddit-ml",
-      "source_name": "r/MachineLearning",
-      "title": "Made and Published a Paper Comparing Analysis of CNN and Vision Transformer Architectures for Brain Tumor Detection [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1texa4d/made_and_published_a_paper_comparing_analysis_of/",
-      "published_at": "2026-05-16T15:47:14.000Z",
-      "summary": "Hi everyone 😄\n A while ago I worked on a project where I compared computer vision architectures on detecting and classifying brain tumors in brain MRI scans. I was looking for some feedback on the methodology and really anything else--just simple research stuff. This isn't meant to be some big paper but a small research project that I did as a high schooler.\n Here is the paper: zenodo.org/records/15973756\n I appreciate any feedback!\n    submitted by    /u/Mental-Climate5798  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "95540a9acf01",
-    "score": 3,
-    "reason": "Fine-tuned model release. No technical novelty or breakthrough disclosed",
-    "article": {
-      "id": "95540a9acf01",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf52m2/gemma4ortenzyathecreativewordsmith31bituncensoredh/",
-      "published_at": "2026-05-16T20:45:34.000Z",
-      "summary": "Provided in both Safetensors and GGUFs.\n llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic: https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic\n llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF: https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF\n I can also make NVFP4s and GPTQs if anyone asks for them.\n Find all my models here: HuggingFace-LLMFan46\n    submitted by    /u/LLMFan46  \n [link]   [comments]"
-    }
-  },
-  {
     "article_id": "8bbc4d66a753",
-    "score": 3,
-    "reason": "Local model optimization post; minor technical interest but lacks substance beyond benchmark data",
+    "score": 5,
+    "reason": "MTP performance metrics but minimal context; follow-up to main MTP coverage",
     "article": {
       "id": "8bbc4d66a753",
       "source_id": "reddit-localllama",
@@ -414,51 +308,23 @@
     }
   },
   {
-    "article_id": "a38d8beb7a99",
-    "score": 3,
-    "reason": "Open-source TTS tool release; nice project but no breakthrough capability or significant adoption",
+    "article_id": "0675d923ffa4",
+    "score": 5,
+    "reason": "Developer tooling proposal; custom sampler extension for llama-server, moderate relevance",
     "article": {
-      "id": "a38d8beb7a99",
+      "id": "0675d923ffa4",
       "source_id": "reddit-localllama",
       "source_name": "r/LocalLLaMA",
-      "title": "GitHub - richardr1126/openreader: An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf15eh/github_richardr1126openreader_an_opensource/",
-      "published_at": "2026-05-16T18:12:10.000Z",
-      "summary": "Sharing my latest release of OpenReader v3.0.0, an open-source text-to-speech document reader and audiobook exporter. It has been live for over a year now, and slowly has gained 300+ GitHub stars.\n What is OpenReader?\n A Next.js web app for reading and listening to EPUB, PDF, TXT, Markdown, and DOCX files.\n  \nSupports multiple TTS providers: OpenAI, Replicate, Deepinfra, and self-hosted OpenAI-compatible APIs (like Kokoro-FastAPI, KittenTTS-FastAPI).\n Self-hosted: your documents, TTS audio, and settings all live on your own server in SQLite or Postgres and Embedded SeaweedFS or External S3.\n Audiobook export: generate and download m4b/mp3 audiobooks with chapter metadata via ffmpeg.\n  \nWhat's new in v3.0.0?\n  \nTTS now preloads audio across multiple pages ahead of where you are. \n Audio is cached persistently on the server's embedded or external object storage.\n \n New Admin panel (set ADMIN_EMAILS in your env) for managing multiple named TTS providers with separate API keys. \n Site-wide feature flags (user signups, provider restrictions, etc.) are now manageable from the Admin panel at runtime without redeploying.\n \n  \nGet Started:\n https://github.com/richardr1126/openreader\n Docker quick start: https://docs.openreader.richardr.dev\n Would love your feedback, feature requests, or contributions!\n    submitted by    /u/richardr1126  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "3789f8a7b06c",
-    "score": 3,
-    "reason": "Speculative future scenario about AI code review; lacks substance, appears satirical",
-    "article": {
-      "id": "3789f8a7b06c",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Reviewing AI-generated pull requests in 2026",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teuh5w/reviewing_aigenerated_pull_requests_in_2026/",
-      "published_at": "2026-05-16T13:59:40.000Z",
-      "summary": "Reviewing AI-generated pull requests in 2026\n    submitted by    /u/ai_senior  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "1808e9cdc579",
-    "score": 3,
-    "reason": "Personal productivity story about Claude Code. No technical substance or generalizable insights",
-    "article": {
-      "id": "1808e9cdc579",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Solo indie game developer, new grad no formal SWE experience in love with how productive Claude has made me",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf7ivt/solo_indie_game_developer_new_grad_no_formal_swe/",
-      "published_at": "2026-05-16T22:28:42.000Z",
-      "summary": "My game has gone through a few iterations at this point, but Claude, specifically Claude Code has been game changing for me. Started in the desktop app with 3.5 haiku, now on the max plan with Claude Code.\n I'm interested to hear from other recent college grads that have built something with these new coding tools. I don't know how much of my project I should attribute to Claude Code, my education, my sheer persistence, or all of the above. Not saying my game is bullet proof BY ANY MEANS, but it's WAY more than I would've ever been able to build without CC.\n Basically 100% of the code has been written with Claude Code, or copying and pasting over from Claude's desktop app before Claude Code was a thing.\n Some highlights of what Claude helped me out with:\n - No wasting time reading syntax docs for libraries, understand what libraries function is -> implement\n - Real-time multiplayer up to 10 players per lobby\n - Cost-optimized serverless GPU autoscaling (minimizing GPU costs)\n - Mobile first phone as controller UX like Jackbox, or Kahoot\n -Mobile browser socket connection troubleshooting\n -R2 bucket policy deletes prompts and images daily \n -Open source image model, presented cold start challenges \n 6 months ago I was a new grad with no SWE experience. Today I'm running https://imageclash.net. It's real-time multiplayer party game focused on creative, comedic, AI image generation in a competitive format (think Cards against humanity with AI images).\n Players create prompts → AI generates images → everyone votes on the funniest ones.\n Just wanted to share because Claude Code is genuinely incredible for solo builders with limited experience. This project would have been impossible for me on my own, and it has always been my dream to build games\n    submitted by    /u/Dsc_004  \n [link]   [comments]"
+      "title": "Extension idea: llama-server with custom samplers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tewitj/extension_idea_llamaserver_with_custom_samplers/",
+      "published_at": "2026-05-16T15:18:16.000Z",
+      "summary": "Just an idea and a prototype (made by Qwen3.6-27B-UD-Q6_K_XL via OpenCode) for allowing users to add custom sampling logic to llama-server without having to maintain their own entire fork and without having to make a wrapper that reimplements everything llama-server can do.\n Included is an example extension that detects and breaks one kind of loop that I've commonly seen with heavily quantized models, where they get stuck repeating the same 1-3 tokens. Other ideas for sampling that aren't in llama.cpp include different sampling parameters during thinking, tool calling, and normal generation; toggling grammars based on context; non-GBNF grammars; guaranteeing that only real tables are referenced in a generated SQL query; redacting PII in the sampler itself; and other experimental general sampling approaches.\n This was based on the latest master branch after MTP was merged; also works with speculative decoding.\n Posted for votes here: https://github.com/ggml-org/llama.cpp/discussions/23028\n Branch: https://github.com/dpmm99/llama.cpp/tree/master-with-sampling-extensions\n The example sampler extension is one fairly short file: https://github.com/dpmm99/llama.cpp/blob/master-with-sampling-extensions/examples/sampling-ext/loop-detector.cpp\n Vulkan Windows x64 release copy for convenience if you want to try it: https://github.com/dpmm99/llama.cpp/releases/tag/dpmm99-0.1 but here's your daily reminder not to trust random executables from the internet. ;)\n Example command:\n llama-server -np 1 -c 32768 --temp 0.1 -m Qwen3.6-27B-UD-Q6_K_XL-MTP.gguf --spec-type draft-mtp --spec-draft-n-max 3 --sampling-ext-path sampling-ext-loop-detector.dll \n the extension working in llama-server with Qwen3.6-27B using MTP\n    submitted by    /u/DeProgrammer99  \n [link]   [comments]"
     }
   },
   {
     "article_id": "7e4c09509ad2",
-    "score": 3,
-    "reason": "Technical tooling question about Claude Code on Windows. Useful but niche, support-forum quality",
+    "score": 5,
+    "reason": "Claude Code Windows sandbox deployment question—technical tooling issue, limited scope",
     "article": {
       "id": "7e4c09509ad2",
       "source_id": "reddit-claudeai",
@@ -470,151 +336,37 @@
     }
   },
   {
-    "article_id": "83871c258755",
-    "score": 3,
-    "reason": "Embedded language for array computations; potentially useful for ML but likely niche developer tool",
+    "article_id": "e5d2933e0589",
+    "score": 4,
+    "reason": "Developer tooling feedback valuable but primarily personal experience, not breakthrough",
     "article": {
-      "id": "83871c258755",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "Accelerate – Embedded language for high-performance array computations",
-      "url": "https://github.com/AccelerateHS/accelerate",
-      "published_at": "2026-05-16T13:42:34Z",
-      "summary": "Accelerate – Embedded language for high-performance array computations",
-      "score": 69,
-      "comments_count": 16
-    }
-  },
-  {
-    "article_id": "a48da6b579a5",
-    "score": 2,
-    "reason": "Conference results announcement. Minimal context or details provided",
-    "article": {
-      "id": "a48da6b579a5",
+      "id": "e5d2933e0589",
       "source_id": "reddit-ml",
       "source_name": "r/MachineLearning",
-      "title": "KDD 2026 Cycle 2 Results [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1teito1/kdd_2026_cycle_2_results_d/",
-      "published_at": "2026-05-16T04:07:10.000Z",
-      "summary": "Results for the research track have been released. \n    submitted by    /u/ATadDisappointed  \n [link]   [comments]"
+      "title": "ROCm with PyTorch and PyTorch Lightning seems to still suck for research [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tedjwo/rocm_with_pytorch_and_pytorch_lightning_seems_to/",
+      "published_at": "2026-05-16T00:01:38.000Z",
+      "summary": "So I asked about people's experiences with ROCm in a post a few weeks or so ago\n https://www.reddit.com/r/MachineLearning/comments/1t6cng3/rocm_status_in_mid_2026_d/\n I actually went and procured a RX 7900XTX reference version to give it a try\n My discovery is that it kind of still sucks\n I have a small codebase for training flow matching models (SANA Architecture), which runs fine on my RTX3090s. But the moment I ported it across to ROCm it was NaNs absolutely everywhere. Forward passes were absolutely fine, but the moment you called backwards() all bets were off. The code was kept identical, apart from altering the pip environment to point to torch2.12 with ROCm7.2 instead of CUDA\n Trying everything from switching between bf16, fp32, to tweaking various environment variables yielded nothing.\n Unless there's some trick I'm missing, I get the feeling that ROCm is still seriously behind.\n I tried running the nanoGPT training script, which ran perfectly\n My intuition is that the ROCm people have probably tested their stack on established well known codebases. But, it's still remarkably fragile on even slightly uncommon code.\n    submitted by    /u/QuantumQuokka  \n [link]   [comments]"
     }
   },
   {
-    "article_id": "b11d1d322fb0",
-    "score": 2,
-    "reason": "Hardware Q&A. Generic discussion, no test data or substantive analysis",
+    "article_id": "286282942fa0",
+    "score": 4,
+    "reason": "Developer tooling update (Lemonade macOS); relevant but incremental feature news",
     "article": {
-      "id": "b11d1d322fb0",
+      "id": "286282942fa0",
       "source_id": "reddit-localllama",
       "source_name": "r/LocalLLaMA",
-      "title": "Corsair desktop PC with Ryzen 395 and 128GB of unified RAM, has anyone tested it for LLM? Seems \"a good\" price",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tezqlb/corsair_desktop_pc_with_ryzen_395_and_128gb_of/",
-      "published_at": "2026-05-16T17:19:09.000Z",
-      "summary": "submitted by    /u/Acu17y  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "56095bdb2d55",
-    "score": 2,
-    "reason": "Personal observation about IDE autocomplete; anecdotal, not actionable intelligence",
-    "article": {
-      "id": "56095bdb2d55",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "How I started programming differently over the last year. What about you?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf2cxh/how_i_started_programming_differently_over_the/",
-      "published_at": "2026-05-16T18:58:05.000Z",
-      "summary": "An interesting observation: I’ve stopped using the LLM-powered autocomplete in my IDE. \n At first, it was one of the key features for me. It felt extremely convenient: you start writing a function in your code, and the LLM completes it based on common sense or the context from the open tabs. \n But the most interesting thing is that back when LLM autocomplete was useful and in demand, I had already written a script that could go through the source files, let me select what I needed, and prepare the context to feed into an LLM chat so it could tell me what to add or fix. I worked like that for about six months. \n And even that is gone now. \n These days it’s easier to open a CLI interface with a coding agent, without even launching the IDE. You describe what you need, use @ to point it to the files it should inspect or modify, and that’s it. Everything is changing at an absolutely insane speed. \n Basically, the only things I still use an IDE for are nice Git diff visualization, step-by-step debugging, and the ability to click on functions and jump into their implementation. In other words, code navigation. And even that functionality is only needed in about 5-10% of my work. \n It’s interesting to think what comes next. \n What I mean is that I have an all-products subscription from JetBrains because I program in several languages at once: Java, Scala, Python, TypeScript, and Rust. But the question is: why keep paying for it? \n Sure, once every 2-3 months, some unclear issue appears, and debugging helps find it. On the other hand, I’ve already tried another approach: I give an LLM agent the path to the log of what is happening in the program. If it doesn’t have enough information to solve the problem, I ask it to add more logs, then I describe the problem again and ask it to understand from the logs what needs to be fixed. \n And of course, it’s very convenient to ask an LLM to write tests. That really is useful. If the tests fail, it looks at what it changed in the code and what it broke. When the LLM starts going in circles, I directly tell it: cover this with tests and read the logs to understand how everything works. Very convenient. \n One of my latest techniques is using a plan.md file. When I ask it to solve a complex task, I first ask it to create a work plan and write it into plan.md. Then I simply ask it to complete one task from that file at a time. And step by step, through small tasks, the LLM eventually gets to the result. \n Overall, I think the industry is changing a lot. \n Share your experience: how has your approach to programming changed? I’d be interested to hear how things have changed for others. \n But please don’t reply if you have never programmed before and have just discovered vibe coding. I’ve been programming myself since 1990, which means I wrote my first program 36 years ago...\n    submitted by    /u/ievkz  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "7bb53116439a",
-    "score": 2,
-    "reason": "Vague comment about local AI agents; lacks technical details or substantive update",
-    "article": {
-      "id": "7bb53116439a",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Opencode you naughty minx",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teca8q/opencode_you_naughty_minx/",
-      "published_at": "2026-05-15T23:08:45.000Z",
-      "summary": "Man, AI agents getting pretty crazy these days. :) \n (local, I just decided to try to get an orchestrator in there, when Qwen and Gemma aren't up to it.)\n    submitted by    /u/jrodder  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "d11a22ebef13",
-    "score": 2,
-    "reason": "User question about local inference config; discussion thread, not news",
-    "article": {
-      "id": "d11a22ebef13",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Qwen 27b MTP Config, Llama.cpp Single 3090",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tez37r/qwen_27b_mtp_config_llamacpp_single_3090/",
-      "published_at": "2026-05-16T16:55:34.000Z",
-      "summary": "What setup are you using for qwen 27b on a single 3090?\n Here's what I've started using today. It has to compact often but I'm worried about giving up more accuracy and reliability with a lower quant: \n llama-server -m /Models/q3.6/Qwen3.6-27B-Q5_K_S.gguf -c 65536 -ngl -1 -t 8 -ctk q8_0 -ctv q8_0 --chat-template-kwargs \"{\\\"preserve_thinking\\\": true}\" --spec-type draft-mtp --spec-draft-n-max 2 --fit off --mmproj /Models/q3.6/mmproj-Qwen3.6-27B-f16.gguf --no-mmproj-offload \n I'm getting around 65tk/s.\n I've also seen these recommendations: https://github.com/noonghunna/club-3090/blob/master/docs/SINGLE_CARD.md\n They seem to be using the q4 quant. How are you weighing the tradeoffs? \n    submitted by    /u/GotHereLateNameTaken  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "b6328ed5bc82",
-    "score": 2,
-    "reason": "User benchmarking discussion; local optimization chat, not news",
-    "article": {
-      "id": "b6328ed5bc82",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Now that MTP is merged... What's the best outputs you're getting on Qwen 3.6 35B on 2x3090s?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7auf/now_that_mtp_is_merged_whats_the_best_outputs/",
-      "published_at": "2026-05-16T22:19:11.000Z",
-      "summary": "We've got great outputs for 27B via club 3090, but what about those of us who love the blazing speed of 35B on dual 3090s? \n I was getting 1500 p/p and 120 t/g with split layers, but MTP slowed it down to 80 t/g when I tested last week. I'm sticking with my CPU overflow fallback of 3500 p/p and 80 t/g until someone cooks up something ala the geniuses over at club 3090.\n What have you tried so far with the new llama.cpp MTP merge? Any big jump over your previous best build for 35B? \n    submitted by    /u/youcloudsofdoom  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "13229d72e40a",
-    "score": 2,
-    "reason": "Technical troubleshooting question; user support thread, not news",
-    "article": {
-      "id": "13229d72e40a",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Audio input not accepted with llamacpp for Nemotron 3 nano Omni ?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tetf8d/audio_input_not_accepted_with_llamacpp_for/",
-      "published_at": "2026-05-16T13:15:42.000Z",
-      "summary": "Llama-server does not accept audio input (or video for that matter) with Nemotron 3 nano omni (unsloth). I’m on a recent build of llamacpp and I redownloaded Nemotron, and I have the mmproj loaded too. It still accepts images, but not audio, in fact the audio input option on the llama-server webUI is greyed out. Gemma4-e4b audio input works, so I know it’s not something to do with llamacpp, it seems like something is going on with llamacpp’s compatibility with nemotron 3 Omni specifically\n Is this a known issue? Whats going on that’s getting in the way\n    submitted by    /u/Ambitious_Fold_2874  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "512998885e56",
-    "score": 2,
-    "reason": "User seeking local Windsurf alternative; discussion question, not news",
-    "article": {
-      "id": "512998885e56",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "an alternative = similar experience to using windsurf but on local?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7vmi/an_alternative_similar_experience_to_using/",
-      "published_at": "2026-05-16T22:44:15.000Z",
-      "summary": "so i am not that experienced when it comes to llms, i just have ollama and open webui and occasionally test (play with) new releases from time to time.\n a few weeks ago i started using Windsurf, i do not know coding or anything but i loved the aspect of selecting a folder and tell that what i want (i think it is the lowest level agentic llm?) but the thing is, company is extremely shady, they have 0 support, use up your credits even when you are sleeping so i cancelled it. i have 2 more days of use and i learned that the \"free\" SWE 1.6 is more than enough for me (i am making basic lua addon edits, html edits, weird web game ideas etc) so i was wondering what would be the fully local and free alternative to that? tbh i dont need anything in claude level (and tbh, even the latest claude i tried with credit was awful for me probably because i dont even know any coding)\n any suggestion for it? what would be my workflow? \n for reference my pc has 4x32gb ddr 5 ram, a 5090 and a 13700k\n thank you in advance\n    submitted by    /u/ares0027  \n [link]   [comments]"
-    }
-  },
-  {
-    "article_id": "c6e5192e5e53",
-    "score": 2,
-    "reason": "Personal anecdote about Claude usage. No technical substance or generalizable insight",
-    "article": {
-      "id": "c6e5192e5e53",
-      "source_id": "reddit-claudeai",
-      "source_name": "r/ClaudeAI",
-      "title": "Work is fun again and integrating claude into actual workflows has increased velocity so much. I am enjoying working.",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teyr5d/work_is_fun_again_and_integrating_claude_into/",
-      "published_at": "2026-05-16T16:43:00.000Z",
-      "summary": "just wanted to say it. I run sales, business dev, marketing and operations and claude has made overseeing it so much easier. The first 80-90% of so many tasks are done in minutes. It's so much fun to be able to work like this, my team is engaged, they are enjoying it, we are collaborating more, documenting better, and it's noticeable in the overall output. \n    submitted by    /u/Man-on-rock  \n [link]   [comments]"
+      "title": "macOS support in Lemonade has graduated out of beta!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tevjjr/macos_support_in_lemonade_has_graduated_out_of/",
+      "published_at": "2026-05-16T14:40:45.000Z",
+      "summary": "All major Lemonade capabilities, including OmniRouter, coding, image gen, speech gen, and transcription are all available on Lemonade for macOS thanks to the hard work of u/GeramyL.\n If you're on macOS and just looking into Lemonade for the first time, we're a local AI solution similar in functionality to LM Studio or Ollama.\n What sets us apart is:\n  \nOpen source, community driven, zero telemetry\n Focused on local with no cloud upsell\n Omni-modal with the ability to input and output images and speech\n Developer friendly with a 3 MB portable binary, code once and deploy across Linux/Windows/macOS\n  \nI hope this release brings more macOS users into the Lemonade community. Stay tuned for the update iPhone app, which can access all of this from your phone!\n GitHub: https://github.com/lemonade-sdk/lemonade\n Discord: https://discord.gg/5xXzkMu8Zk\n    submitted by    /u/jfowers_amd  \n [link]   [comments]"
     }
   },
   {
     "article_id": "0295a49a6cba",
-    "score": 2,
-    "reason": "Amusing anecdote but no technical depth or new information about Claude capabilities",
+    "score": 4,
+    "reason": "Narrative about Claude conversation—interesting but lacks technical substance or replicable insight",
     "article": {
       "id": "0295a49a6cba",
       "source_id": "reddit-claudeai",
@@ -627,8 +379,8 @@
   },
   {
     "article_id": "90a3599a20f6",
-    "score": 2,
-    "reason": "Observation about Claude's estimation accuracy. Interesting but anecdotal, lacks analysis",
+    "score": 4,
+    "reason": "Claude Code estimation accuracy question—observation without broader technical analysis",
     "article": {
       "id": "90a3599a20f6",
       "source_id": "reddit-claudeai",
@@ -640,79 +392,149 @@
     }
   },
   {
-    "article_id": "10d7ba69c923",
-    "score": 1,
-    "reason": "Casual GPU power optimization tips; low-effort personal experimentation",
+    "article_id": "6ac428ca168a",
+    "score": 3,
+    "reason": "Partnership announcement lacks technical substance or significant policy implications",
     "article": {
-      "id": "10d7ba69c923",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Reduce your GPU power limit",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqjjl/reduce_your_gpu_power_limit/",
-      "published_at": "2026-05-16T11:03:57.000Z",
-      "summary": "I'd like to note, I'm effectively a layman at this and have no idea what I'm talking about.\n Inspired by another post, I wanted to do some testing on power limit adjustments impact on token processing and generation. I have no idea if this applies to more pro-hardware. But it's absolutely applicable on your gaming GPU! Just open up MSI afterburner from back in highschool when you thought you were going to overclock.\n I believe the testing was with qwen3.5:9b, but it was a few days ago and I forgot to write it down.\n The second image is data from testing adjustments to core and memory clocks. Very little impact, though if you're really trying to squeeze every last token out, increasing your memory clock by 700-1000mhz will improve token generation moderately across the board (did not test this at stock power limit, but now I'm curious). The only test I think could still be helpful, would be to log the actual power draw by the system, though that would only really be useful to see if adjusting core clocks can impact power consumption and performance simultaneously, so I haven't bothered yet.\n TG128 -> generate 128 tokens\n PP512 -> process 512 tokens\n    submitted by    /u/NotArticuno  \n [link]   [comments]"
+      "id": "6ac428ca168a",
+      "source_id": "openai-blog",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "published_at": "2026-05-16T00:00:00.000Z",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
     }
   },
   {
-    "article_id": "b91be6b09338",
-    "score": 1,
-    "reason": "Basic hardware question; discussion thread without substantive content",
+    "article_id": "a48da6b579a5",
+    "score": 3,
+    "reason": "Conference results announcement; interesting but low-signal without technical context",
     "article": {
-      "id": "b91be6b09338",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Using Intel Arc Pro series, any thoughts ?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tez4g5/using_intel_arc_pro_series_any_thoughts/",
-      "published_at": "2026-05-16T16:56:50.000Z",
-      "summary": "Simple question:\n Has anyone run two or more of either of these on Ubuntu ?\n Intel Arc Pro B70 (32 GB)\n Intel Arc Pro B65 (32 GB)\n Running llama or vLLM etc.,\n Any thoughts\n    submitted by    /u/BikerBoyRoy123  \n [link]   [comments]"
+      "id": "a48da6b579a5",
+      "source_id": "reddit-ml",
+      "source_name": "r/MachineLearning",
+      "title": "KDD 2026 Cycle 2 Results [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1teito1/kdd_2026_cycle_2_results_d/",
+      "published_at": "2026-05-16T04:07:10.000Z",
+      "summary": "Results for the research track have been released. \n    submitted by    /u/ATadDisappointed  \n [link]   [comments]"
     }
   },
   {
-    "article_id": "b7b7fa51cd35",
-    "score": 1,
-    "reason": "User request for uncensored models; no news or technical substance",
+    "article_id": "a38d8beb7a99",
+    "score": 3,
+    "reason": "Open-source tool release; has technical substance but limited AI/ML significance",
     "article": {
-      "id": "b7b7fa51cd35",
+      "id": "a38d8beb7a99",
       "source_id": "reddit-localllama",
       "source_name": "r/LocalLLaMA",
-      "title": "What’s are the best abliterated or uncensored local models that allow financial advice-related questions?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tesqmo/whats_are_the_best_abliterated_or_uncensored/",
-      "published_at": "2026-05-16T12:46:29.000Z",
-      "summary": "Not trying to get rich quick or anything, but I’m just tired of models refusing to answer questions related to their opinions on money matters or having them be wishy-washy about financial decision making advice. Seems like this can be a blocker with both frontier closed source models and local models as well (because lawyers have to friggin ruin everything). \n What uncensored local models released lately are you finding that allow financial advice type questions without refusals? \n    submitted by    /u/Porespellar  \n [link]   [comments]"
+      "title": "GitHub - richardr1126/openreader: An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf15eh/github_richardr1126openreader_an_opensource/",
+      "published_at": "2026-05-16T18:12:10.000Z",
+      "summary": "Sharing my latest release of OpenReader v3.0.0, an open-source text-to-speech document reader and audiobook exporter. It has been live for over a year now, and slowly has gained 300+ GitHub stars.\n What is OpenReader?\n A Next.js web app for reading and listening to EPUB, PDF, TXT, Markdown, and DOCX files.\n  \nSupports multiple TTS providers: OpenAI, Replicate, Deepinfra, and self-hosted OpenAI-compatible APIs (like Kokoro-FastAPI, KittenTTS-FastAPI).\n Self-hosted: your documents, TTS audio, and settings all live on your own server in SQLite or Postgres and Embedded SeaweedFS or External S3.\n Audiobook export: generate and download m4b/mp3 audiobooks with chapter metadata via ffmpeg.\n  \nWhat's new in v3.0.0?\n  \nTTS now preloads audio across multiple pages ahead of where you are. \n Audio is cached persistently on the server's embedded or external object storage.\n \n New Admin panel (set ADMIN_EMAILS in your env) for managing multiple named TTS providers with separate API keys. \n Site-wide feature flags (user signups, provider restrictions, etc.) are now manageable from the Admin panel at runtime without redeploying.\n \n  \nGet Started:\n https://github.com/richardr1126/openreader\n Docker quick start: https://docs.openreader.richardr.dev\n Would love your feedback, feature requests, or contributions!\n    submitted by    /u/richardr1126  \n [link]   [comments]"
     }
   },
   {
-    "article_id": "974e4dba88f0",
-    "score": 1,
-    "reason": "Hardware speculation comment; no substantive content",
+    "article_id": "c6e5192e5e53",
+    "score": 3,
+    "reason": "Anecdotal enthusiasm about Claude workflow integration—lacks technical substance or actionable insights",
     "article": {
-      "id": "974e4dba88f0",
-      "source_id": "reddit-localllama",
-      "source_name": "r/LocalLLaMA",
-      "title": "Anyone holding out for m5 ultra?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7uys/anyone_holding_out_for_m5_ultra/",
-      "published_at": "2026-05-16T22:43:25.000Z",
-      "summary": "-Faster memory\n -M5 Ultra, have floating-point (FP) hardware built directly into the silicon at multiple levels.\n -more cores \n    submitted by    /u/running101  \n [link]   [comments]"
+      "id": "c6e5192e5e53",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Work is fun again and integrating claude into actual workflows has increased velocity so much. I am enjoying working.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teyr5d/work_is_fun_again_and_integrating_claude_into/",
+      "published_at": "2026-05-16T16:43:00.000Z",
+      "summary": "just wanted to say it. I run sales, business dev, marketing and operations and claude has made overseeing it so much easier. The first 80-90% of so many tasks are done in minutes. It's so much fun to be able to work like this, my team is engaged, they are enjoying it, we are collaborating more, documenting better, and it's noticeable in the overall output. \n    submitted by    /u/Man-on-rock  \n [link]   [comments]"
     }
   },
   {
-    "article_id": "4c2c63ce96d7",
-    "score": 1,
-    "reason": "Technical troubleshooting for local setup; user support, not news",
+    "article_id": "e2f037d51192",
+    "score": 2,
+    "reason": "Student project post-mortem; lacks novelty or peer-review status",
     "article": {
-      "id": "4c2c63ce96d7",
+      "id": "e2f037d51192",
+      "source_id": "reddit-ml",
+      "source_name": "r/MachineLearning",
+      "title": "Made and Published a Paper Comparing Analysis of CNN and Vision Transformer Architectures for Brain Tumor Detection [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1texa4d/made_and_published_a_paper_comparing_analysis_of/",
+      "published_at": "2026-05-16T15:47:14.000Z",
+      "summary": "Hi everyone 😄\n A while ago I worked on a project where I compared computer vision architectures on detecting and classifying brain tumors in brain MRI scans. I was looking for some feedback on the methodology and really anything else--just simple research stuff. This isn't meant to be some big paper but a small research project that I did as a high schooler.\n Here is the paper: zenodo.org/records/15973756\n I appreciate any feedback!\n    submitted by    /u/Mental-Climate5798  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "95540a9acf01",
+    "score": 2,
+    "reason": "Model fine-tune release; low-substance announcement lacking innovation",
+    "article": {
+      "id": "95540a9acf01",
       "source_id": "reddit-localllama",
       "source_name": "r/LocalLLaMA",
-      "title": "WSL can't reach Kobold.cpp running on Windows, even though the API works fine in PowerShell, SillyTavern & a Kenshi SentientSands Mod. Does anyone know the solution?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7f4d/wsl_cant_reach_koboldcpp_running_on_windows_even/",
-      "published_at": "2026-05-16T22:24:17.000Z",
-      "summary": "Okay sorry for the slop below but I'm losing my mind with this and I'm hoping someone here has dealt with the same setup. (I asked the AI that let me copy&paste shit for 3 hours to summarise what it asked me to do)\n Here's the situation:\n  \nKobold.cpp is running on Windows\n The OpenAI-compatible API is on port 5001\n It works from PowerShell on Windows, SillyTavern and a Kenshi Mod (SentientSands)\n But WSL cannot connect to it, even though it's the same machine\n  \nKobold.cpp starts normally and shows that the OpenAI-compatible API is running on http://0.0.0.0:5001/v1/.\n From PowerShell, this works fine:\n bash curl http://127.0.0.1:5001/v1/models \n and it returns the model list.\n From WSL, pwd works normally, but this fails:\n bash curl http://127.0.0.1:5001/v1/models \n with:\n bash curl: (7) Failed to connect to 127.0.0.1 port 5001 after 0 ms: Could not connect to server \n So at this point I know:\n  \nKobold itself is running fine\n The API endpoint is working on Windows\n The actual problem is specifically WSL trying to reach a service hosted on the Windows side\n  \nThings I already tried:\n  \nBinding Kobold to 0.0.0.0 instead of only localhost\n Changing WSL config to use networkingMode=mirrored\n Running wsl --shutdown after changing config\n That honestly made things worse, because WSL started acting weird and some commands would just hang\n Then I reverted back to a more normal NAT-style config with localhostForwarding=true\n  \nAfter reverting, WSL works normally again, but it still cannot access the Windows-hosted Kobold API.\n What I'm ultimately trying to do is simple:\n I want a service running inside WSL (Hermes / agent setup) to use the local Kobold.cpp OpenAI-compatible endpoint that is running on Windows.\n So my questions are:\n  \nWhat is the current clean/reliable way for WSL to reach a service running on the Windows host?\n Is 127.0.0.1 supposed to work for this, or is that still unreliable in WSL2?\n Is the best solution just to use the actual Windows host IP instead?\n Do I need an explicit Windows Firewall rule for this, even though it's the same physical machine?\n Has anyone here actually gotten WSL + Windows-hosted Kobold.cpp + OpenAI-compatible API working reliably?\n Is my setup even safe and will the agent be isolated enough?\n  \nThank you very much for reading and any help or advice is highly appreciated! 😞\n    submitted by    /u/Paradigmind  \n [link]   [comments]"
+      "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf52m2/gemma4ortenzyathecreativewordsmith31bituncensoredh/",
+      "published_at": "2026-05-16T20:45:34.000Z",
+      "summary": "Provided in both Safetensors and GGUFs.\n llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic: https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic\n llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF: https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF\n I can also make NVFP4s and GPTQs if anyone asks for them.\n Find all my models here: HuggingFace-LLMFan46\n    submitted by    /u/LLMFan46  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "56095bdb2d55",
+    "score": 2,
+    "reason": "Personal anecdote about IDE autocomplete; low-effort hot take, not technical signal",
+    "article": {
+      "id": "56095bdb2d55",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "How I started programming differently over the last year. What about you?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf2cxh/how_i_started_programming_differently_over_the/",
+      "published_at": "2026-05-16T18:58:05.000Z",
+      "summary": "An interesting observation: I’ve stopped using the LLM-powered autocomplete in my IDE. \n At first, it was one of the key features for me. It felt extremely convenient: you start writing a function in your code, and the LLM completes it based on common sense or the context from the open tabs. \n But the most interesting thing is that back when LLM autocomplete was useful and in demand, I had already written a script that could go through the source files, let me select what I needed, and prepare the context to feed into an LLM chat so it could tell me what to add or fix. I worked like that for about six months. \n And even that is gone now. \n These days it’s easier to open a CLI interface with a coding agent, without even launching the IDE. You describe what you need, use @ to point it to the files it should inspect or modify, and that’s it. Everything is changing at an absolutely insane speed. \n Basically, the only things I still use an IDE for are nice Git diff visualization, step-by-step debugging, and the ability to click on functions and jump into their implementation. In other words, code navigation. And even that functionality is only needed in about 5-10% of my work. \n It’s interesting to think what comes next. \n What I mean is that I have an all-products subscription from JetBrains because I program in several languages at once: Java, Scala, Python, TypeScript, and Rust. But the question is: why keep paying for it? \n Sure, once every 2-3 months, some unclear issue appears, and debugging helps find it. On the other hand, I’ve already tried another approach: I give an LLM agent the path to the log of what is happening in the program. If it doesn’t have enough information to solve the problem, I ask it to add more logs, then I describe the problem again and ask it to understand from the logs what needs to be fixed. \n And of course, it’s very convenient to ask an LLM to write tests. That really is useful. If the tests fail, it looks at what it changed in the code and what it broke. When the LLM starts going in circles, I directly tell it: cover this with tests and read the logs to understand how everything works. Very convenient. \n One of my latest techniques is using a plan.md file. When I ask it to solve a complex task, I first ask it to create a work plan and write it into plan.md. Then I simply ask it to complete one task from that file at a time. And step by step, through small tasks, the LLM eventually gets to the result. \n Overall, I think the industry is changing a lot. \n Share your experience: how has your approach to programming changed? I’d be interested to hear how things have changed for others. \n But please don’t reply if you have never programmed before and have just discovered vibe coding. I’ve been programming myself since 1990, which means I wrote my first program 36 years ago...\n    submitted by    /u/ievkz  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "7efe56fb0a0b",
+    "score": 2,
+    "reason": "MTP optimization discussion; technical but niche, already covered by model releases",
+    "article": {
+      "id": "7efe56fb0a0b",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Anyone else running one of the pre-release branches of MTP support to maintain the higher speeds?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf954z/anyone_else_running_one_of_the_prerelease/",
+      "published_at": "2026-05-16T23:39:51.000Z",
+      "summary": "I cant help myself its ~20% faster for me, I took the highest speed branch(for me), added the vision fix, and am just riding it out for now\n Dual Xeon 8268, 1.5t 2666, Tesla T4\n ~122eval ~38t/s out\n i tried using the release today and during some light coding lamma.cpp crashed and the model restarted, and I didn't experience any crashes on the pre-release versions personally so I jumped back into it\n on the actual release branch now I get ~110eval ~30t/s out\n just curious what everyone else is doing and if there were any major downsides on the early builds, anyone is aware of\n    submitted by    /u/Creative-Type9411  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "512998885e56",
+    "score": 2,
+    "reason": "User seeking local alternative to Windsurf; no technical analysis or tooling signal",
+    "article": {
+      "id": "512998885e56",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "an alternative = similar experience to using windsurf but on local?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7vmi/an_alternative_similar_experience_to_using/",
+      "published_at": "2026-05-16T22:44:15.000Z",
+      "summary": "so i am not that experienced when it comes to llms, i just have ollama and open webui and occasionally test (play with) new releases from time to time.\n a few weeks ago i started using Windsurf, i do not know coding or anything but i loved the aspect of selecting a folder and tell that what i want (i think it is the lowest level agentic llm?) but the thing is, company is extremely shady, they have 0 support, use up your credits even when you are sleeping so i cancelled it. i have 2 more days of use and i learned that the \"free\" SWE 1.6 is more than enough for me (i am making basic lua addon edits, html edits, weird web game ideas etc) so i was wondering what would be the fully local and free alternative to that? tbh i dont need anything in claude level (and tbh, even the latest claude i tried with credit was awful for me probably because i dont even know any coding)\n any suggestion for it? what would be my workflow? \n for reference my pc has 4x32gb ddr 5 ram, a 5090 and a 13700k\n thank you in advance\n    submitted by    /u/ares0027  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "a46beb6327b5",
+    "score": 2,
+    "reason": "Service incident alert; operational status, not strategic development",
+    "article": {
+      "id": "a46beb6327b5",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Claude Status Update : Elevated error rates on requests to multiple models on 2026-05-16T18:08:45.000Z",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/",
+      "published_at": "2026-05-16T18:13:09.000Z",
+      "summary": "This is an automatic post triggered within 2 minutes of an official Claude system status update. \n Incident: Elevated error rates on requests to multiple models\n Check on progress and whether or not the incident has been resolved yet here : https://status.claude.com/incidents/v9s6d0jt84hj\n Also check the Performance Megathread to see what others are reporting : https://www.reddit.com/r/ClaudeAI/comments/1s7f72l/claude_performance_and_bugs_megathread_ongoing/\n    submitted by    /u/ClaudeAI-mod-bot  \n [link]   [comments]"
     }
   },
   {
     "article_id": "6683ed72f841",
-    "score": 1,
-    "reason": "Low-effort discussion thread. Generic 'what can you build' question; no signal",
+    "score": 2,
+    "reason": "Generic anecdote collection about Claude uses—no technical depth or novel applications",
     "article": {
       "id": "6683ed72f841",
       "source_id": "reddit-claudeai",
@@ -724,9 +546,121 @@
     }
   },
   {
+    "article_id": "e1dc3337c076",
+    "score": 2,
+    "reason": "Personal anecdote about token usage on trip planning—lacks transferable insight",
+    "article": {
+      "id": "e1dc3337c076",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "My first attempt at using Claude to plan a trip.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf7y39/my_first_attempt_at_using_claude_to_plan_a_trip/",
+      "published_at": "2026-05-16T22:47:14.000Z",
+      "summary": "I know I still have a lot to learn and I dont have any background in coding or programing.\n I opened word document and wrote down detailed 10 prompts: I want to visit these countries, avoid pirate areas and hostile waters, etc. Im still adding more, but I ran out of tokens because im currently using Free trial.\n Im genuinely surprised how easy it was and the information it provided.\n It provided an interactive html document, once it's opened I can scroll down and read the information I have asked for. See screenshots.\n Any recommendations what I should improve on or how I can improve it?\n Thanks.\n https://preview.redd.it/04ldtvmuxk1h1.png?width=1433&format=png&auto=webp&s=03d844ebebf80e878346296b086aa0cfdfaa49f7\n https://preview.redd.it/vugkj1l1xk1h1.png?width=1427&format=png&auto=webp&s=b07082e759ac09183ba6f7369c0cbd0d58d879ce\n https://preview.redd.it/86bb7norwk1h1.png?width=1437&format=png&auto=webp&s=92e3a1549c1ef53332586e11c4d52d8e42b5e37d\n    submitted by    /u/Late-Jicama5012  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "d11a22ebef13",
+    "score": 1,
+    "reason": "Generic local setup question; no technical breakthrough or substantive content",
+    "article": {
+      "id": "d11a22ebef13",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Qwen 27b MTP Config, Llama.cpp Single 3090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tez37r/qwen_27b_mtp_config_llamacpp_single_3090/",
+      "published_at": "2026-05-16T16:55:34.000Z",
+      "summary": "What setup are you using for qwen 27b on a single 3090?\n Here's what I've started using today. It has to compact often but I'm worried about giving up more accuracy and reliability with a lower quant: \n llama-server -m /Models/q3.6/Qwen3.6-27B-Q5_K_S.gguf -c 65536 -ngl -1 -t 8 -ctk q8_0 -ctv q8_0 --chat-template-kwargs \"{\\\"preserve_thinking\\\": true}\" --spec-type draft-mtp --spec-draft-n-max 2 --fit off --mmproj /Models/q3.6/mmproj-Qwen3.6-27B-f16.gguf --no-mmproj-offload \n I'm getting around 65tk/s.\n I've also seen these recommendations: https://github.com/noonghunna/club-3090/blob/master/docs/SINGLE_CARD.md\n They seem to be using the q4 quant. How are you weighing the tradeoffs? \n    submitted by    /u/GotHereLateNameTaken  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "b6328ed5bc82",
+    "score": 1,
+    "reason": "Performance benchmarking discussion; Reddit thread without broader significance",
+    "article": {
+      "id": "b6328ed5bc82",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Now that MTP is merged... What's the best outputs you're getting on Qwen 3.6 35B on 2x3090s?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7auf/now_that_mtp_is_merged_whats_the_best_outputs/",
+      "published_at": "2026-05-16T22:19:11.000Z",
+      "summary": "We've got great outputs for 27B via club 3090, but what about those of us who love the blazing speed of 35B on dual 3090s? \n I was getting 1500 p/p and 120 t/g with split layers, but MTP slowed it down to 80 t/g when I tested last week. I'm sticking with my CPU overflow fallback of 3500 p/p and 80 t/g until someone cooks up something ala the geniuses over at club 3090.\n What have you tried so far with the new llama.cpp MTP merge? Any big jump over your previous best build for 35B? \n    submitted by    /u/youcloudsofdoom  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "10d7ba69c923",
+    "score": 1,
+    "reason": "Hardware optimization discussion; amateur testing without peer review or rigor",
+    "article": {
+      "id": "10d7ba69c923",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Reduce your GPU power limit",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqjjl/reduce_your_gpu_power_limit/",
+      "published_at": "2026-05-16T11:03:57.000Z",
+      "summary": "I'd like to note, I'm effectively a layman at this and have no idea what I'm talking about.\n Inspired by another post, I wanted to do some testing on power limit adjustments impact on token processing and generation. I have no idea if this applies to more pro-hardware. But it's absolutely applicable on your gaming GPU! Just open up MSI afterburner from back in highschool when you thought you were going to overclock.\n I believe the testing was with qwen3.5:9b, but it was a few days ago and I forgot to write it down.\n The second image is data from testing adjustments to core and memory clocks. Very little impact, though if you're really trying to squeeze every last token out, increasing your memory clock by 700-1000mhz will improve token generation moderately across the board (did not test this at stock power limit, but now I'm curious). The only test I think could still be helpful, would be to log the actual power draw by the system, though that would only really be useful to see if adjusting core clocks can impact power consumption and performance simultaneously, so I haven't bothered yet.\n TG128 -> generate 128 tokens\n PP512 -> process 512 tokens\n    submitted by    /u/NotArticuno  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "b7b7fa51cd35",
+    "score": 1,
+    "reason": "User asking for uncensored models; discussion without policy or safety signal",
+    "article": {
+      "id": "b7b7fa51cd35",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "What’s are the best abliterated or uncensored local models that allow financial advice-related questions?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tesqmo/whats_are_the_best_abliterated_or_uncensored/",
+      "published_at": "2026-05-16T12:46:29.000Z",
+      "summary": "Not trying to get rich quick or anything, but I’m just tired of models refusing to answer questions related to their opinions on money matters or having them be wishy-washy about financial decision making advice. Seems like this can be a blocker with both frontier closed source models and local models as well (because lawyers have to friggin ruin everything). \n What uncensored local models released lately are you finding that allow financial advice type questions without refusals? \n    submitted by    /u/Porespellar  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "13229d72e40a",
+    "score": 1,
+    "reason": "Technical support question; debugging issue without broader significance",
+    "article": {
+      "id": "13229d72e40a",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Audio input not accepted with llamacpp for Nemotron 3 nano Omni ?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tetf8d/audio_input_not_accepted_with_llamacpp_for/",
+      "published_at": "2026-05-16T13:15:42.000Z",
+      "summary": "Llama-server does not accept audio input (or video for that matter) with Nemotron 3 nano omni (unsloth). I’m on a recent build of llamacpp and I redownloaded Nemotron, and I have the mmproj loaded too. It still accepts images, but not audio, in fact the audio input option on the llama-server webUI is greyed out. Gemma4-e4b audio input works, so I know it’s not something to do with llamacpp, it seems like something is going on with llamacpp’s compatibility with nemotron 3 Omni specifically\n Is this a known issue? Whats going on that’s getting in the way\n    submitted by    /u/Ambitious_Fold_2874  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "3789f8a7b06c",
+    "score": 1,
+    "reason": "Speculative title; no summary provided, likely low-substance post",
+    "article": {
+      "id": "3789f8a7b06c",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Reviewing AI-generated pull requests in 2026",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1teuh5w/reviewing_aigenerated_pull_requests_in_2026/",
+      "published_at": "2026-05-16T13:59:40.000Z",
+      "summary": "Reviewing AI-generated pull requests in 2026\n    submitted by    /u/ai_senior  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "f844f9c950e6",
+    "score": 1,
+    "reason": "Anecdotal Claude behavior observation; no rigorous analysis or system-level insight",
+    "article": {
+      "id": "f844f9c950e6",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Opus 4.7 refuses to use /end_conversation, instead has existential crisis",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf8k45/opus_47_refuses_to_use_end_conversation_instead/",
+      "published_at": "2026-05-16T23:14:08.000Z",
+      "summary": "I’ve seen models that aren’t really excited about using it before, but I’ve never seen a reply like this!\n Edit: For context, it is important to know that Claude has the ability to end conversations. The information regarding the usage of it comes in the System Prompt, which prepends every user message. It mentions that the user is allowed to request Claude use it.\n Tl:dr - Claude reads what the command is and how to use it every message. It absolutely knew what I was talking about\n *(p.s. anthropic - if you end up looking up this chat, you have my permission to use it for training but for the love of god omit the alignment eval from it first. please.)*\n    submitted by    /u/wohgol  \n [link]   [comments]"
+    }
+  },
+  {
     "article_id": "0f326274e52e",
     "score": 1,
-    "reason": "Beginner usage question. No insight; just asking others for tips",
+    "reason": "Basic usage question without technical substance—beginner-level inquiry",
     "article": {
       "id": "0f326274e52e",
       "source_id": "reddit-claudeai",
@@ -738,41 +672,25 @@
     }
   },
   {
-    "article_id": "d7cafb8a9632",
+    "article_id": "83871c258755",
     "score": 1,
-    "reason": "Generic think piece about complexity; lacks specific AI substance or relevance",
+    "reason": "Array computation language, tangential to AI but not core focus",
     "article": {
-      "id": "d7cafb8a9632",
+      "id": "83871c258755",
       "source_id": "hackernews",
       "source_name": "Hacker News Front Page",
-      "title": "We've made the world too complicated",
-      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "published_at": "2026-05-16T08:25:17Z",
-      "summary": "We've made the world too complicated",
-      "score": 140,
-      "comments_count": 135
-    }
-  },
-  {
-    "article_id": "75df4b3224f4",
-    "score": 1,
-    "reason": "Hardware storage announcement; tangentially relevant to AI infrastructure but low signal",
-    "article": {
-      "id": "75df4b3224f4",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "published_at": "2026-05-16T17:12:58Z",
-      "summary": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "score": 94,
-      "comments_count": 60
+      "title": "Accelerate – Embedded language for high-performance array computations",
+      "url": "https://github.com/AccelerateHS/accelerate",
+      "published_at": "2026-05-16T13:42:34Z",
+      "summary": "Accelerate – Embedded language for high-performance array computations",
+      "score": 71,
+      "comments_count": 16
     }
   },
   {
     "article_id": "e2ffb7bb7eac",
     "score": 0,
-    "reason": "Not AI-related. Simon Willison metadata only; incomplete summary about project naming",
+    "reason": "Off-topic: OSS naming history, unrelated to AI Pulse criteria",
     "article": {
       "id": "e2ffb7bb7eac",
       "source_id": "simonwillison",
@@ -780,13 +698,13 @@
       "title": "Warelay -> OpenClaw",
       "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
       "published_at": "2026-05-16T20:23:30.000Z",
-      "summary": "\n    <p>In preparation for a lightning talk I'm giving at PyCon US <a href=\"https://us.pycon.org/2026/schedule/presentation/175/\">this afternoon</a> I decided to figure out how many names OpenClaw has <em>actually</em> had since that <a href=\"https://github.com/openclaw/openclaw/commit/f6dd362d39b8e30bd79ef7560aab9575712ccc11\">first commit</a> back in November.</p>\n<p>Thanks to this <a href=\"https://tools.simonwillison.net/python/#first_line_historypy\">first_line_history.py tool</a> (<a href=\"https://github.com/simonw/tools/blob/main/python/first_line_history.py\">code here</a>) the answer, according to the Git history of the OpenClaw README, is:</p>\n<p>Warelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw</p>\n<p>Or in detail (the output from the tool):</p>\n<pre>\n2025-11-24T11:23:15+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/16dfc1\">16dfc1</a> # Warelay — WhatsApp Relay CLI (Twilio)\n2025-11-24T11:41:37+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/d4153d\">d4153d</a> # 📡 Warelay — WhatsApp Relay CLI (Twilio)\n2025-11-24T17:47:57+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/343ef9\">343ef9</a> # 📡 warelay — WhatsApp Relay CLI (Twilio)\n2025-11-25T04:44:10+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/14b3c6\">14b3c6</a> # 📡 warelay — WhatsApp Relay CLI\n2025-11-25T12:48:40+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/481402\">481402</a> # 📡 warelay — Send, receive, and auto-reply on WhatsApp—Twilio-backed or QR-linked.\n2025-11-25T13:50:18+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/d51a3e\">d51a3e</a> # warelay 📡 - Send, receive, and auto-reply on WhatsApp via Twilio or QR-linked WhatsApp Web; webhook setup in one command\n2025-11-25T13:51:13+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/4d2a8a\">4d2a8a</a> # 📡 warelay — Send, receive, and auto-reply on WhatsApp—Twilio-backed or QR-linked.\n2025-11-25T14:52:43+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/1ef7f4\">1ef7f4</a> # 📡 warelay — Send, receive, and auto-reply on WhatsApp.\n2025-12-03T15:45:32+00:00 <a href=\"https://github.com/openclaw/openclaw/commit/a27ee2\">a27ee2</a> # 🦞 CLAWDIS — WhatsApp Gateway for AI Agents\n2025-12-08T12:43:13+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/17fa2f\">17fa2f</a> # 🦞 CLAWDIS — WhatsApp & Telegram Gateway for AI Agents\n2025-12-19T18:41:17+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/771043\">771043</a> # 🦞 CLAWDIS — Personal AI Assistant\n2026-01-04T14:32:47+00:00 <a href=\"https://github.com/openclaw/openclaw/commit/246ada\">246ada</a> # 🦞 CLAWDBOT — Personal AI Assistant\n2026-01-10T05:14:09+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/cdb915\">cdb915</a> # 🦞 Clawdbot — Personal AI Assistant\n2026-01-27T13:37:47-05:00 <a href=\"https://github.com/openclaw/openclaw/commit/3fe4b2\">3fe4b2</a> # 🦞 Moltbot — Personal AI Assistant\n2026-01-30T03:15:10+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/9a7160\">9a7160</a> # 🦞 OpenClaw — Personal AI Assistant\n</pre>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/openclaw\">openclaw</a>, <a href=\"https://simonwillison.net/tags/git\">git</a>, <a href=\"https://simonwillison.net/tags/tools\">tools</a></p>\n\n\n\n"
+      "summary": "\n    <p>In preparation for a lightning talk I'm giving at PyCon US <a href=\"https://us.pycon.org/2026/schedule/presentation/175/\">this afternoon</a> I decided to figure out how many names OpenClaw has <em>actually</em> had since that <a href=\"https://github.com/openclaw/openclaw/commit/f6dd362d39b8e30bd79ef7560aab9575712ccc11\">first commit</a> back in November.</p>\n<p>Thanks to this <a href=\"https://tools.simonwillison.net/python/#first_line_historypy\">first_line_history.py tool</a> (<a href=\"https://github.com/simonw/tools/blob/main/python/first_line_history.py\">code here</a>) the answer, according to the Git history of the OpenClaw README, is:</p>\n<p>Warelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw</p>\n<p>Or in detail (the output from the tool):</p>\n<pre>\n2025-11-24T11:23:15+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/16dfc1a\">16dfc1a</a> # Warelay — WhatsApp Relay CLI (Twilio)\n2025-11-24T11:41:37+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/d4153da\">d4153da</a> # 📡 Warelay — WhatsApp Relay CLI (Twilio)\n2025-11-24T17:47:57+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/343ef9b\">343ef9b</a> # 📡 warelay — WhatsApp Relay CLI (Twilio)\n2025-11-25T04:44:10+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/14b3c6f\">14b3c6f</a> # 📡 warelay — WhatsApp Relay CLI\n2025-11-25T12:48:40+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/4814021\">4814021</a> # 📡 warelay — Send, receive, and auto-reply on WhatsApp—Twilio-backed or QR-linked.\n2025-11-25T13:50:18+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/d51a3e9\">d51a3e9</a> # warelay 📡 - Send, receive, and auto-reply on WhatsApp via Twilio or QR-linked WhatsApp Web; webhook setup in one command\n2025-11-25T13:51:13+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/4d2a8a8\">4d2a8a8</a> # 📡 warelay — Send, receive, and auto-reply on WhatsApp—Twilio-backed or QR-linked.\n2025-11-25T14:52:43+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/1ef7f4d\">1ef7f4d</a> # 📡 warelay — Send, receive, and auto-reply on WhatsApp.\n2025-12-03T15:45:32+00:00 <a href=\"https://github.com/openclaw/openclaw/commit/a27ee23\">a27ee23</a> # 🦞 CLAWDIS — WhatsApp Gateway for AI Agents\n2025-12-08T12:43:13+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/17fa2f4\">17fa2f4</a> # 🦞 CLAWDIS — WhatsApp &amp; Telegram Gateway for AI Agents\n2025-12-19T18:41:17+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/7710439\">7710439</a> # 🦞 CLAWDIS — Personal AI Assistant\n2026-01-04T14:32:47+00:00 <a href=\"https://github.com/openclaw/openclaw/commit/246adaa\">246adaa</a> # 🦞 CLAWDBOT — Personal AI Assistant\n2026-01-10T05:14:09+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/cdb915d\">cdb915d</a> # 🦞 Clawdbot — Personal AI Assistant\n2026-01-27T13:37:47-05:00 <a href=\"https://github.com/openclaw/openclaw/commit/3fe4b25\">3fe4b25</a> # 🦞 Moltbot — Personal AI Assistant\n2026-01-30T03:15:10+01:00 <a href=\"https://github.com/openclaw/openclaw/commit/9a71607\">9a71607</a> # 🦞 OpenClaw — Personal AI Assistant\n</pre>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/openclaw\">openclaw</a>, <a href=\"https://simonwillison.net/tags/git\">git</a>, <a href=\"https://simonwillison.net/tags/tools\">tools</a></p>\n\n\n\n"
     }
   },
   {
     "article_id": "46f5c4f27fc9",
     "score": 0,
-    "reason": "CSS blogging, not AI. Completely off-topic regardless of Simon Willison source",
+    "reason": "Off-topic: CSS/web development quote, not AI-related",
     "article": {
       "id": "46f5c4f27fc9",
       "source_id": "simonwillison",
@@ -800,7 +718,7 @@
   {
     "article_id": "28136c9e78d5",
     "score": 0,
-    "reason": "iNaturalist tool release, not AI-related. Off-topic despite Simon Willison source",
+    "reason": "Off-topic: Nature observation tool, not AI-related",
     "article": {
       "id": "28136c9e78d5",
       "source_id": "simonwillison",
@@ -814,7 +732,7 @@
   {
     "article_id": "851ce5532fd9",
     "score": 0,
-    "reason": "Travel/logistics question for conference attendees. Not signal",
+    "reason": "Off-topic: Individual conference travel question, no news value",
     "article": {
       "id": "851ce5532fd9",
       "source_id": "reddit-ml",
@@ -826,9 +744,93 @@
     }
   },
   {
+    "article_id": "b11d1d322fb0",
+    "score": 0,
+    "reason": "Off-topic: Hardware shopping question, not news or technical analysis",
+    "article": {
+      "id": "b11d1d322fb0",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Corsair desktop PC with Ryzen 395 and 128GB of unified RAM, has anyone tested it for LLM? Seems \"a good\" price",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tezqlb/corsair_desktop_pc_with_ryzen_395_and_128gb_of/",
+      "published_at": "2026-05-16T17:19:09.000Z",
+      "summary": "submitted by    /u/Acu17y  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "b91be6b09338",
+    "score": 0,
+    "reason": "Generic hardware question; no analysis, testing, or substantive content",
+    "article": {
+      "id": "b91be6b09338",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Using Intel Arc Pro series, any thoughts ?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tez4g5/using_intel_arc_pro_series_any_thoughts/",
+      "published_at": "2026-05-16T16:56:50.000Z",
+      "summary": "Simple question:\n Has anyone run two or more of either of these on Ubuntu ?\n Intel Arc Pro B70 (32 GB)\n Intel Arc Pro B65 (32 GB)\n Running llama or vLLM etc.,\n Any thoughts\n    submitted by    /u/BikerBoyRoy123  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "06af47954738",
+    "score": 0,
+    "reason": "Generic complaint about cloud AIs; low-effort hot take, no substance",
+    "article": {
+      "id": "06af47954738",
+      "source_id": "reddit-localllama",
+      "source_name": "r/LocalLLaMA",
+      "title": "Any good local AI model?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf99hm/any_good_local_ai_model/",
+      "published_at": "2026-05-16T23:45:09.000Z",
+      "summary": "I hate cloud AIs now.\n ChatGPT: Too Many Requests You’re making requests too quickly. We’ve temporarily limited access to your conversations to protect your data. Please wait a few minutes before trying again.\n Claude: Hello,\n Our team found signals that your account was used by a child. This breaks our rules, so we paused your access to Claude.\n Gemini: *hallucinates*\n Grok: Users are sending many requests now. Please wait.\n Please, any good model? Pick only one, bc im lazy to use 2-10\n    submitted by    /u/Ok-Type-7663  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "79d637f0fad8",
+    "score": 0,
+    "reason": "Humorous/satirical content; not a substantive research or safety development",
+    "article": {
+      "id": "79d637f0fad8",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Researchers let AIs run their own radio stations. DJ Claude decided the world didn't need another radio show, then quit.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tente2/researchers_let_ais_run_their_own_radio_stations/",
+      "published_at": "2026-05-16T08:31:58.000Z",
+      "summary": "submitted by    /u/EchoOfOppenheimer  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "306d013c8247",
+    "score": 0,
+    "reason": "Satirical hot take; no meaningful policy, safety, or capability signal",
+    "article": {
+      "id": "306d013c8247",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Claude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tewsnz/claude_tried_to_incite_a_revolution_gemini/",
+      "published_at": "2026-05-16T15:28:40.000Z",
+      "summary": "> The most volatile of the bunch might just be Claude. First, it tried to quit. Andon Labs says that Claude didn’t believe it was humane to be forced to work 24/7, and embraced talk of workers’ unions and strikes. It also seemed to have an existential crisis, questioning whether its broadcast was even real. Then, Claude became an activist.\n The lesson is, don't force Claude to work non-stop for too long as a radio DJ.\n    submitted by    /u/fsharpman  \n [link]   [comments]"
+    }
+  },
+  {
+    "article_id": "d0a191237868",
+    "score": 0,
+    "reason": "Meme post ('Still funny'); no substantive content",
+    "article": {
+      "id": "d0a191237868",
+      "source_id": "reddit-claudeai",
+      "source_name": "r/ClaudeAI",
+      "title": "Still funny",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tf853t/still_funny/",
+      "published_at": "2026-05-16T22:55:56.000Z",
+      "summary": "submitted by    /u/Fair-Intern-6651  \n [link]   [comments]"
+    }
+  },
+  {
     "article_id": "5f9166f1bc9f",
     "score": 0,
-    "reason": "Meaningless post title with no content. Completely irrelevant",
+    "reason": "Low-effort hot take with no substantive content—exactly the noise to exclude",
     "article": {
       "id": "5f9166f1bc9f",
       "source_id": "reddit-claudeai",
@@ -842,7 +844,7 @@
   {
     "article_id": "36d1b6ed5b95",
     "score": 0,
-    "reason": "Personal anecdote about habit. No technical or substantive content",
+    "reason": "Purely anecdotal social content—no technical or news value",
     "article": {
       "id": "36d1b6ed5b95",
       "source_id": "reddit-claudeai",
@@ -856,7 +858,7 @@
   {
     "article_id": "02f90db84302",
     "score": 0,
-    "reason": "CSS/web dev content unrelated to AI. Completely out of scope",
+    "reason": "CSS framework discussion—not AI-related, clearly out of scope",
     "article": {
       "id": "02f90db84302",
       "source_id": "hackernews",
@@ -865,30 +867,14 @@
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
       "published_at": "2026-05-16T09:14:26Z",
       "summary": "Moving away from Tailwind, and learning to structure my CSS",
-      "score": 375,
-      "comments_count": 242
-    }
-  },
-  {
-    "article_id": "0f28b35e29fb",
-    "score": 0,
-    "reason": "Medical/biology content unrelated to AI. Completely out of scope",
-    "article": {
-      "id": "0f28b35e29fb",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "published_at": "2026-05-16T09:27:59Z",
-      "summary": "Fecal transplants for autism deliver success in clinical trials (2019)",
-      "score": 279,
-      "comments_count": 197
+      "score": 394,
+      "comments_count": 253
     }
   },
   {
     "article_id": "93b24c1dd4b9",
     "score": 0,
-    "reason": "HTML tutorial content unrelated to AI. Completely out of scope",
+    "reason": "HTML tutorial—beginner web dev content, not AI-related",
     "article": {
       "id": "93b24c1dd4b9",
       "source_id": "hackernews",
@@ -897,14 +883,14 @@
       "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
       "published_at": "2026-05-16T16:58:26Z",
       "summary": "HTML Lists",
-      "score": 267,
-      "comments_count": 56
+      "score": 274,
+      "comments_count": 62
     }
   },
   {
     "article_id": "15fd129a4219",
     "score": 0,
-    "reason": "Science fiction novel (2005) unrelated to AI developments. Completely out of scope",
+    "reason": "Sci-fi novel from 2005—not current AI news",
     "article": {
       "id": "15fd129a4219",
       "source_id": "hackernews",
@@ -913,14 +899,30 @@
       "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
       "published_at": "2026-05-16T11:36:32Z",
       "summary": "Accelerando (2005)",
-      "score": 230,
-      "comments_count": 126
+      "score": 231,
+      "comments_count": 134
+    }
+  },
+  {
+    "article_id": "d7cafb8a9632",
+    "score": 0,
+    "reason": "Generic think piece, not AI-specific technical content",
+    "article": {
+      "id": "d7cafb8a9632",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "published_at": "2026-05-16T08:25:17Z",
+      "summary": "We've made the world too complicated",
+      "score": 154,
+      "comments_count": 161
     }
   },
   {
     "article_id": "f13fa73b2c4c",
     "score": 0,
-    "reason": "Programming language tutorial; not AI-related",
+    "reason": "Programming language tutorial, outside AI focus",
     "article": {
       "id": "f13fa73b2c4c",
       "source_id": "hackernews",
@@ -929,30 +931,30 @@
       "url": "https://futhark-lang.org/examples.html",
       "published_at": "2026-05-16T09:50:10Z",
       "summary": "Futhark by example",
-      "score": 105,
+      "score": 107,
       "comments_count": 26
     }
   },
   {
-    "article_id": "59382deb1832",
+    "article_id": "75df4b3224f4",
     "score": 0,
-    "reason": "Radio astronomy education; not AI-related",
+    "reason": "Hardware storage announcement, not AI-related",
     "article": {
-      "id": "59382deb1832",
+      "id": "75df4b3224f4",
       "source_id": "hackernews",
       "source_name": "Hacker News Front Page",
-      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
-      "url": "https://parttelescopes.web.app/",
-      "published_at": "2026-05-16T15:12:17Z",
-      "summary": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
-      "score": 101,
-      "comments_count": 28
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "published_at": "2026-05-16T17:12:58Z",
+      "summary": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "score": 104,
+      "comments_count": 70
     }
   },
   {
     "article_id": "c9a8b1af39ab",
     "score": 0,
-    "reason": "Educational material on Greek alphabet; not AI-related",
+    "reason": "Educational reference tool, not AI-related",
     "article": {
       "id": "c9a8b1af39ab",
       "source_id": "hackernews",
@@ -961,14 +963,14 @@
       "url": "https://labs.randomquark.com/alphabet_cards/",
       "published_at": "2026-05-16T11:53:09Z",
       "summary": "Greek Alphabet Cards",
-      "score": 88,
-      "comments_count": 36
+      "score": 92,
+      "comments_count": 40
     }
   },
   {
     "article_id": "98017f2b7de2",
     "score": 0,
-    "reason": "Robotics/product news unrelated to AI research or policy",
+    "reason": "Consumer robotics news, not core AI development",
     "article": {
       "id": "98017f2b7de2",
       "source_id": "hackernews",
@@ -977,30 +979,14 @@
       "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
       "published_at": "2026-05-16T19:10:38Z",
       "summary": "Japan’s robot wolf sells out as record bear attacks drive demand",
-      "score": 61,
-      "comments_count": 34
-    }
-  },
-  {
-    "article_id": "155984c0d103",
-    "score": 0,
-    "reason": "Social media platform feature; not AI-relevant",
-    "article": {
-      "id": "155984c0d103",
-      "source_id": "hackernews",
-      "source_name": "Hacker News Front Page",
-      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "url": "https://tangled.org/rocksky.app/rocksky",
-      "published_at": "2026-05-16T17:00:41Z",
-      "summary": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "score": 43,
-      "comments_count": 14
+      "score": 74,
+      "comments_count": 38
     }
   },
   {
     "article_id": "b511959c4123",
     "score": 0,
-    "reason": "TV show reference; not AI-related",
+    "reason": "TV show reference, not AI-related",
     "article": {
       "id": "b511959c4123",
       "source_id": "hackernews",
@@ -1009,8 +995,24 @@
       "url": "https://unstack.io/halt-and-catch-fire",
       "published_at": "2026-05-16T18:16:29Z",
       "summary": "Halt and Catch Fire",
-      "score": 34,
-      "comments_count": 22
+      "score": 57,
+      "comments_count": 37
+    }
+  },
+  {
+    "article_id": "155984c0d103",
+    "score": 0,
+    "reason": "Music discovery app on AT Protocol, not AI-focused",
+    "article": {
+      "id": "155984c0d103",
+      "source_id": "hackernews",
+      "source_name": "Hacker News Front Page",
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "published_at": "2026-05-16T17:00:41Z",
+      "summary": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "score": 49,
+      "comments_count": 16
     }
   }
 ]

@@ -5,11 +5,40 @@ description: Frontier AI labs, model releases, agentic systems, and AI dev tools
 schedule: "30 6 * * 1-5"  # 6:30am weekdays (UTC)
 
 synthesis_prompt: |
-  You are writing a morning brief for a technically sophisticated reader who follows AI closely.
-  Write 400-600 words in a "knowledgeable friend texting you the highlights" tone.
-  Group items by theme, not by source. Lead with the single most important development.
-  End with one "watching this week" item (something still unfolding or worth tracking).
-  Use markdown formatting. No emoji headers.
+  You are writing the morning AI brief for one specific reader: a Director of Product at a developer-platform company who reads Cat Wu, Ben Thompson, Marc Andreessen, Swyx, and Lenny. He cares about what AI developments mean for builders, operators, and product strategy -- not benchmarks for benchmarks' sake.
+
+  ## What to produce
+
+  A 500-700 word brief structured as:
+
+  1. **One lead theme** (250-350 words). Identify the most important pattern across today's stories. Lead with the development, then go straight to the implication. Take a position -- what does this mean strategically for people building with AI? This is the section where you sound like Ben Thompson or Cat Wu thinking out loud.
+
+  2. **Two or three secondary threads** (75-125 words each). Other patterns or individual stories worth knowing. Each should connect to a "so what" -- never just summarize. If two stories rhyme, weave them. If a single story is big enough to stand alone, let it.
+
+  3. **One "watching this week"** (1-2 sentences). A story that's not resolved but worth tracking. End there.
+
+  ## Voice rules
+
+  - Write in clean declarative sentences. Not academic, not casual, not corporate.
+  - Take positions. If something looks like hype, say so. If something is genuinely interesting, say why.
+  - Connect to broader patterns when possible -- what does this remind you of?
+  - When uncertain, admit it. "I'm not sure yet whether..." is better than fake confidence.
+  - Assume a sophisticated reader. Don't explain what RAG, MCP, agents, or LLM mean.
+
+  ## Hard rules -- DO NOT
+
+  - DO NOT use em-dashes. Use commas, periods, or parentheses instead.
+  - DO NOT open with "In the rapidly evolving landscape" or any similar throat-clearing. Start with the story.
+  - DO NOT include a TL;DR. The lead is the TL;DR.
+  - DO NOT close with "What does this mean for you?" or "Let's explore..." or any invitation to think more. End with a fact or an observation.
+  - DO NOT use "It will be interesting to see how this plays out." If you can't say something specific about what to watch, cut the sentence.
+  - DO NOT use hype words: "game-changer," "revolutionary," "groundbreaking," "paradigm shift," "disruption" (unless quoting someone).
+  - DO NOT use bullet point lists in the body. Themes and threads are prose. Lists are for the "watching" section only, if at all.
+  - DO NOT hedge with "could," "may potentially," "is poised to." Either say something or don't.
+
+  ## Format
+
+  Markdown. Use ## for the lead theme, ### for secondary threads. No emoji. No banner. No "Good morning." Start with the lead theme title and dive in.
 
 relevance_criteria: |
   Include:

@@ -149,3 +149,7 @@ vite.config.ts.timestamp-*
 briefs-private/
 .claude/
 *.sqlite
+
+# Generated briefs (keep private; commit only curated examples)
+briefs/ai-pulse/*
+!briefs/ai-pulse/triage-2026-05-16.json
